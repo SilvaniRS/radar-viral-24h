@@ -43,7 +43,7 @@ async function loadTopics(){try{const response=await fetch('data/topics.json?t='
 function renderNews(){const region=$('country-filter').value,kind=$('kind-filter').value,query=$('search').value.trim().toLowerCase();const list=data.items.filter(i=>(region==='ALL'||i.country===region)&&(kind==='ALL'||i.kind===kind)&&(!query||i.title.toLowerCase().includes(query)||String(i.source).toLowerCase().includes(query))).slice(0,80);
  $('country-strip').innerHTML=Object.entries(CONFIG).map(([code,c])=>`<button class="chip" data-country="${code}">${c.flag} ${escapeHTML(c.name)} <b>${data.counts?.[code]??0}</b></button>`).join('');document.querySelectorAll('[data-country]').forEach(x=>x.onclick=()=>{$('country-filter').value=x.dataset.country;renderNews()});
  $('news-list').innerHTML=list.length?list.map(item=>`<article class="news-card"><div class="meta"><span>${CONFIG[item.country]?.flag||''} ${escapeHTML(CONFIG[item.country]?.name||item.country)}</span><span class="pill ${item.kind==='pesquisa'?'trend':''}">${item.kind==='pesquisa'?'Busca em alta no Google':'Notícia destacada'}</span></div><h3>${escapeHTML(item.title)}</h3><div class="meta"><span>Fonte: ${escapeHTML(item.source||'não identificada')}</span>${item.traffic?`<span>Buscas aproximadas: ${escapeHTML(item.traffic)}</span>`:''}</div><div class="card-footer"><a href="${escapeHTML(safeURL(item.url))}" target="_blank" rel="noopener noreferrer">Consultar fonte ↗</a><button type="button" class="use-topic" data-index="${data.items.indexOf(item)}">Preparar vídeo ↗</button></div></article>`).join(''):'<div class="empty">Nenhuma pauta nessa seleção. Tente outro país ou aguarde a próxima atualização. <a href="https://ads.tiktok.com/creative/creativeCenter/trends" target="_blank" rel="noopener">Ver tendências oficiais TikTok ↗</a></div>';
- document.querySelectorAll('.use-topic').forEach(b=>b.addEventListener('click',()=>{const i=data.items[Number(b.dataset.index)];if(!i)return;$('video-country').value=i.country;$('video-topic').value=i.title;$('video-source').value=safeURL(i.url);nav('campaign');toast('Pauta selecionada; verifique os fatos na fonte.')}));
+ document.querySelectorAll('.use-topic').forEach(b=>b.addEventListener('click',()=>{const i=data.items[Number(b.dataset.index)];if(!i)return;$('video-country').value=i.country;$('video-topic').value=i.title;$('video-source').value=safeURL(i.url);$('v4-facts').value='';$('v4-narration').value='';$('v4-verified').checked=false;nav('campaign');toast('Pauta selecionada; verifique os fatos na fonte.')}));
  const errors=Object.keys(data.errors||{});$('source-status').textContent='Fontes: Google Trends RSS e Google Notícias RSS. Dados de pesquisas e manchetes, não métricas do TikTok. '+(errors.length?'Algumas fontes falharam: '+errors.join(', ')+'.':'')}
 function briefing(){const country=$('video-country').value,locale=CONFIG[country].lang,topic=$('video-topic').value.trim(),source=$('video-source').value.trim();if(!topic){toast('Escolha um assunto ou título');return}const locales={
  pt:{head:'GANCHO',body:'Inclua em 1 frase o FATO confirmado na fonte (sem inventar detalhes).',why:'Explique por que esse assunto interessa ao público.',end:'Qual a sua opinião? Siga @radarviral24h para mais notícias.',tags:'#Noticias #Curiosidades #RadarViral24H'},
@@ -59,7 +59,63 @@ function init(){initHistory();renderCountries();$('stats-form').onsubmit=addReco
  $('generate-brief').onclick=briefing;$('copy-brief').onclick=()=>copy($('brief-result').textContent);$('copy-landing').onclick=()=>copy(new URL('seguir.html?lang=en',document.baseURI).href);
  $('export-csv').onclick=()=>download(toCSV(history),'radarviral_historico.csv','text/csv;charset=utf-8');
  $('export-json').onclick=()=>download(JSON.stringify({exported_at:new Date().toISOString(),history},null,2),'radarviral_backup.json','application/json');
- $('import-csv').onchange=importCSV;loadTopics()}
+ $('import-csv').onchange=importCSV;initStudioV4();loadTopics()}
+
+function studioText(){return $('v4-narration').value.trim()}
+function buildDraftV4(){
+ const facts=$('v4-facts').value.split('\n').map(x=>x.trim()).filter(Boolean).slice(0,6);
+ if(!facts.length){toast('Primeiro escreva fatos que você conferiu na fonte.');return}
+ const lang=CONFIG[$('video-country').value].lang,topic=$('video-topic').value.trim();
+ const labels={pt:['Acompanhe essa notícia:','Siga o Radar Viral 24H para acompanhar as novidades.'],en:['Here is the update:','Follow Radar Viral 24H for more verified updates.'],es:['Esta es la noticia:','Sigue Radar Viral 24H para más novedades verificadas.']}[lang];
+ $('v4-narration').value=[topic?topic+'.':'',labels[0],...facts.map(x=>x.replace(/^[-•\d.)\s]+/,'')),labels[1]].filter(Boolean).join('\n\n');
+ $('v4-verified').checked=false;toast('Rascunho criado a partir dos fatos informados. Revise a entonação e a data.')
+}
+let browserVoices=[];
+function loadV4Voices(){
+ const pick=$('v4-voice');if(!pick)return;
+ if(!('speechSynthesis' in window)){pick.innerHTML='<option>Seu navegador não oferece prévia de fala</option>';return}
+ browserVoices=speechSynthesis.getVoices()||[];
+ const target=CONFIG[$('video-country').value].lang;
+ const current=pick.value;
+ const options=browserVoices.map((v,i)=>({v,i})).filter(x=>x.v.lang.toLowerCase().startsWith(target));
+ const subset=options.length?options:browserVoices.map((v,i)=>({v,i}));
+ pick.innerHTML='';
+ subset.forEach(x=>{const o=document.createElement('option');o.value=String(x.i);o.textContent=x.v.name+' — '+x.v.lang;pick.append(o)});
+ if(!subset.length){const o=document.createElement('option');o.textContent='Voz padrão do sistema';o.value='';pick.append(o)}
+ else if([...pick.options].some(o=>o.value===current)){pick.value=current}
+}
+function playV4(){
+ if(!('speechSynthesis' in window)){toast('Seu navegador não oferece narração de prévia.');return}
+ const text=studioText();if(!text){toast('Preencha a narração antes de ouvir.');return}
+ speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);
+ const lang=CONFIG[$('video-country').value].lang;u.lang=lang==='pt'?'pt-BR':lang==='es'?'es-MX':'en-US';
+ const i=Number($('v4-voice').value);if(browserVoices[i])u.voice=browserVoices[i];
+ u.rate=Number($('v4-speed').value);u.pitch=1.0;
+ speechSynthesis.speak(u);toast('Prévia iniciada; ouça e ajuste o texto.')
+}
+function exportV4(){
+ const topic=$('video-topic').value.trim(),source=$('video-source').value.trim();
+ const narration=studioText(),facts=$('v4-facts').value.split('\n').map(x=>x.trim()).filter(Boolean);
+ if(topic.length<6||facts.length===0||narration.length<50){toast('Preencha manchete, fatos confirmados e narração (50+ caracteres).');return}
+ if(safeURL(source)==='#'){toast('Informe uma URL HTTPS da fonte.');return}
+ if(!$('v4-verified').checked){toast('Confira os fatos e marque a confirmação antes de exportar.');return}
+ const language=CONFIG[$('video-country').value].lang;
+ const map={pt:'Português (Brasil)',en:'Inglês (EUA)',es:'Espanhol (México)'};
+ const pack={format:'radar-v4-brief',version:4,created_at:new Date().toISOString(),country:$('video-country').value,
+  language:map[language],topic,source,facts,narration,voice_hint:language,
+  editorial_note:'Roteiro revisado pelo usuário; aprovação final de áudio, imagens e direitos antes da publicação.'};
+ download(JSON.stringify(pack,null,2),'radar_v4_roteiro.json','application/json;charset=utf-8');toast('Roteiro V4 salvo. Importe no Estúdio Windows para gerar MP4.')
+}
+function initStudioV4(){
+ $('v4-draft').onclick=buildDraftV4;$('v4-play').onclick=playV4;
+ $('v4-stop').onclick=()=>{if('speechSynthesis' in window)speechSynthesis.cancel();toast('Narração interrompida')};
+ $('v4-download').onclick=exportV4;
+ $('v4-speed').oninput=()=>{$('v4-speed-label').textContent=Number($('v4-speed').value).toFixed(2).replace('.',',')+'×'};
+ $('video-country').addEventListener('change',loadV4Voices);
+ if('speechSynthesis' in window)speechSynthesis.addEventListener?.('voiceschanged',loadV4Voices);
+ loadV4Voices();
+}
+
 document.addEventListener('DOMContentLoaded',init);
 // Quando a coleta do Windows estiver em andamento, a interface recarrega o JSON periodicamente.
 // Sites estáticos publicados também se beneficiam enquanto a primeira execução termina.
