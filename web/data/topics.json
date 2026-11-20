@@ -1,0 +1,1859 @@
+{
+  "updated_at": "2026-11-20T14:45:29+00:00",
+  "source_note": "Google Trends RSS e Google Notícias RSS. Não são métricas do TikTok.",
+  "countries": {
+    "BR": {
+      "label": "Brasil",
+      "locale": "pt-BR",
+      "ceid": "BR:pt-419",
+      "lang": "pt",
+      "flag": "🇧🇷"
+    },
+    "US": {
+      "label": "Estados Unidos",
+      "locale": "en-US",
+      "ceid": "US:en",
+      "lang": "en",
+      "flag": "🇺🇸"
+    },
+    "MX": {
+      "label": "México",
+      "locale": "es-419",
+      "ceid": "MX:es-419",
+      "lang": "es",
+      "flag": "🇲🇽"
+    },
+    "PT": {
+      "label": "Portugal",
+      "locale": "pt-PT",
+      "ceid": "PT:pt-150",
+      "lang": "pt",
+      "flag": "🇵🇹"
+    },
+    "ES": {
+      "label": "Espanha",
+      "locale": "es-ES",
+      "ceid": "ES:es",
+      "lang": "es",
+      "flag": "🇪🇸"
+    },
+    "GB": {
+      "label": "Reino Unido",
+      "locale": "en-GB",
+      "ceid": "GB:en",
+      "lang": "en",
+      "flag": "🇬🇧"
+    }
+  },
+  "counts": {
+    "BR": 30,
+    "US": 30,
+    "MX": 30,
+    "PT": 30,
+    "ES": 30,
+    "GB": 30
+  },
+  "errors": {},
+  "items": [
+    {
+      "title": "ccbb",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:20:00 -0800",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-11/bloco-ile-aiye-ganha-exposicao-na-inauguracao-do-ccbb-de-salvador",
+      "source": "Agência Brasil",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "marina silva",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 06:00:00 -0800",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/20/marina-silva-fachin-e-erika-hilton-lula-ministra-negra-no-stf.ghtml",
+      "source": "G1",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "walcyr carrasco",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://vejario.abril.com.br/beira-mar/gosto-de-arriscar-walcyr-carrasco/",
+      "source": "VEJA RIO",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "previsão do tempo blumenau",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-blumenau-hoje-veja-como-fica-o-clima-nesta-sexta-feira,e0e866a2b9739f0576b4188ce7ed64833rxqjbse.html",
+      "source": "Terra",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "carlos alcaraz",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
+      "url": "https://www.marca.com/tenis/copa-masters/2026/11/19/alcaraz-gana-saltara-jugar-ultimo-partido-cobolli.html",
+      "source": "MARCA",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "stênio garcia",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
+      "url": "https://veja.abril.com.br/cultura/quem-sao-as-filhas-de-stenio-garcia-processadas-pelo-ator/",
+      "source": "VEJA",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "frança x espanha",
+      "kind": "pesquisa",
+      "traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
+      "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/noticia/2026/11/20/espanha-reencontrara-a-franca-nas-quartas-de-final-da-liga-das-nacoes-veja-confrontos.ghtml",
+      "source": "ge",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "previsão do tempo florianopolis",
+      "kind": "pesquisa",
+      "traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 04:50:00 -0800",
+      "url": "https://g1.globo.com/sc/santa-catarina/videos-nsc-noticias/video/confira-a-previsao-do-tempo-em-sc-15265382.ghtml",
+      "source": "G1",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "patrick stewart",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 04:40:00 -0800",
+      "url": "https://www.omelete.com.br/filmes/causa-da-morte-de-patrick-stewart-e-revelada-oficialmente",
+      "source": "Omelete",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "consciencia negra feriado",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 04:40:00 -0800",
+      "url": "https://g1.globo.com/al/alagoas/noticia/2026/11/20/o-que-se-sabe-e-o-muito-que-nao-se-sabe-sobre-a-historia-de-zumbi-que-inspirou-o-dia-da-consciencia-negra.ghtml",
+      "source": "G1",
+      "evidence_count": 3,
+      "country": "BR"
+    },
+    {
+      "title": "Fachin tira sigilo de relatório da PF sobre Mendonça no caso Master a pedido do ministro - Estadão",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:40:01 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWi1lNEoyV0dkbndiY2VfQld6ZnUwQ2c4cy1jUGhGdVIxT0Zjb2ZWOFZDellMVVZLTTJieWl1aXgtS3BWMkhOek9wVnpkTDEtTHdzbmctbHhUWGR1WV8ybDVYTXZPMTRzWHg3RnAyTS1NUEloVUVCVVRJMUZKemRqMVNkMU9YWTRsY0U1anlTS1lNMHVPR1A4bGl2c1E0dHdPS2EtdkNpUHoyOENqSTBNWng0SGYxUFdxUjFFaFdpTS1ZLTZZYVp1SkRTa0s3SHJ1WVpCT1FBQmstNlhELUp5VmtZMmpJWTdDM0E?oc=5",
+      "source": "Estadão",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Tempestade causa uma morte, deixa feridos e atinge quase todas as casas de Tupanciretã: 'Destruiu a cidade', diz prefeito - G1",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 09:09:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjljQnpGb01vcVZoMXZNVmV6YVpPRmgwM1VmS05GcE43OERxeFV6eWw2RndWeUQxeHd6VGhSZE1WTXpqbk1ranRzaHAzS09RNERhb3pmZF9iMy12azhHTjBTQjdBUDB5LTRZN2NMeFcyMnhpQWI4MHd1SnpERmdVTEFrSzAzbTVsSkFKV1RXR25heF80SmZlMnBnNm5na1hYdG5XUUdiODJsN3Mz0gG7AUFVX3lxTFBNRDlyQ1c1VXdWRWp6MldnNXZkckNXSExCb2ZtUGFkRG9STlZ6SGhrdkFXZjZ0QnF4QWZLRHNWNVpfa1NOV1RnUTN5dGVtYlRmS0hWQzNmbzl6MUI0X2daUlpMRXhNaDBoaGg5Mmx4RkpJYlNMZGw0S2tfUVVueThtMjluQmxDbWZXbXJlVDFJSmI5RGJuM1A1MDIzcWZLYm0wanVoN0NyMnpWeUVYbFl6YWpUSzFGak01MFU?oc=5",
+      "source": "G1",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "O constrangimento da esquerda com o tesouraço do PT, o revés de Jerônimo na ALBA, a crise na saúde da Bahia e o deputado desavisado - Jornal Correio",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 08:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNX005ZjhkMVVqZW0zMVdoaUtnR251VW9TMnY2VDI5ZTF1WURHZ3hvVU9BNE1vem93c3VaNV9EbmlYcjRwNWFLOGNhZVBVeW5OQXNXbU8xelB4ZWFuaUNKQldqOGxzTFVlcWZCc2xTYmhLTURmQktyczJ6WnNCZHJ6bEpXVVlINnBzY1pZbi1SR2JWQWlaeXhRa28xMlg1RW1adGF3Z29mbEh3QlNOSExZbVFrMjYtdmlfYVRVcUZIZk85dE42X0RDdHlrMGdmWm01Q2hvaWpWTmlGSnU4cTJMWXc5SXFsZVQwUldXamRqR25taHVwT2luSXZVeExfNGwySzBPVGJRdXVLR3l0bzUtZExtR01BWndyb2VVWjRB?oc=5",
+      "source": "Jornal Correio",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "STF se aproxima do recesso com 6x1, dosimetria e relatórios da PF em aberto - CNN Brasil",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 07:00:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYnY2aGlLR0stcFk1NnpsWGdjMlFpNmo0NUR5S2JpNTRJSTRmb1dPczQ0empueFBOLTlDbEdiWEg1VFFUaHVmVkhOcWRpV1B1OEV0YVZrYldRVHBuajFOeXNibEI3aUdId1laNHliemliQS1BdHVjckthdk12a2lNRWV6NDdPNjFCdk1waFpMMzkyLTBBSFhGLW1fNW8wYTFjdmVtX1o0bGttd3dob3pTUWtyaw?oc=5",
+      "source": "CNN Brasil",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Feriado terá chuva forte e risco de temporais no Rio Grande do Sul e em Santa Catarina - Climatempo",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Wed, 18 Nov 2026 15:37:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckthR1Y1bmRfVUkzbEtxLUpyd1hvcWRzcmg4TE1JZWlubDYwYnhFcDNwUWo3ZnN2SzVkLWhvdHRGWXZua0RuTG8zdXJocjYyM2I0dGtva3FGU1V1VFVNWmoxSkprNldIb3M4YXJFOWZqZWFnTHBMYmFTcWM2QzNKVjV1YlItc1IwUHpnYVZJNnFGMjlfNnM0SWxtMXd3aVNYMmktT1g5eEtUY1FKWGNxQWk5YWgzR1FXSGpRb0dJMnBxQWxtRVZZ?oc=5",
+      "source": "Climatempo",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "A dança das cadeiras entre Haddad, Alckmin e Camilo na nova equipe ministerial de Lula - CartaCapital",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 12:41:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTdpQ2M2NnF3aVBIa3J6NlBzODRmeEJrM3lWS0VGSEcyS0QzVFFGQ3lUN0p3NFg5dFBsOXRYTERHdllPeTY4cU9fLU9zS2tmb0w2ZkhQYkItRDYzYS11QzAybGs3dHE0VlVYOFljMk14eGZ3ajNxZjRaaUppQUdRVVFPTUplc0NhWmFMVXk5MnVyNlM4YVBoaWllbWJyb2Q1ZXNrOUE2NjJzaGVKV0FYdDIyblQzdEhFcy1IeWhJZldBYVBFOWc?oc=5",
+      "source": "CartaCapital",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Vorcaro e Faria planejaram criar instituto para Moraes em Londres - UOL Notícias",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 13:38:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSGViYUV4eGdfT3M5UmZtR0JZdVBoYmdocFlaWDFZeThiNmIyNEszNGxnb19aZVh6c0FscHhVMnU1Rk1BSzNrNjVPZWJMUkdtRWYxZ0d1dG9NV3Zqc2RtU2RTX1RSSmVkNVhJZjV1UnZFcndqOFRQTk5qUUpqNlF0NDdTNEx3NktrRFFmUkhpUFM0dnBKTE1GYXp5NU1ycmVLengtalNkVE9VdVBGdmxaVUVCcUwzX0xJYzI2RnpLa2lGemltc1MzendJTHZvYkNG?oc=5",
+      "source": "UOL Notícias",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Opinião - Priscilla Bacalhau: Uma educação menos desigual é possível - Folha de S.Paulo",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 22:59:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelNwWG9Kbm1FSlN4Tzk4ME1nU1ZKRmlaMUxHM015WFR5MXBVVGhmZEtxbm03SVNzc3B4NEFJeDJ5ZE5kYWFnRFhRc2l0WWRnbjZ3WVFDaV9pWnMxUDd6YUFjT3R5Q3c1dF9UdzVaWGtiUTBqMWxXR0xKV0VqZl9sN0d0anJ3MWpxOWo4bnctdEd0X2E1Ml9jcGZhLURfaHZ3Vk00d3VEblFNRHBjeVE?oc=5",
+      "source": "Folha de S.Paulo",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Tributaço de Lula teve ‘toma lá, dá cá’ para ser aprovado no Senado - Diário do Poder",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:16:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkFXallYN1hvOFVhMmVqVDl4eVdZWkx1WGJmQVEyekE1cmdkTE5wdGtFU3N5eDRhaHJ6UDVncldsVW1kNE1NNU1SMlJzTkx1VVZVdDBCS0k0MlktMHNHaU5wMEtWTjFaMFQ0enNTZkRURkVCQ3lFQ0hBMlJyYTNMWUpqV2RZMVlVZEpyYU5oblJESE9iXzhtaVpLWmxNUXVYazM4dXFEcVpoV1ItYTN1RzJyN1Z6VFVM0gG-AUFVX3lxTE1VRzc4cEExMTBkZGFDSGNTNU5RQV9lZldjTi1wMi14VXotdHJNYTcyUmhDRTY5czRIX2xXTEkzWUxMSU1lUmhlUG95Z0RISUdsV3YwWDl2NmpTdm8xc2czbjFHQkJJMzJJWEFtUUFMUWYzUU1wUk44UzAwVk41OEd1cll1TndZNks4enZyY3FxeHBOSjgtVlc4WmtGeUxNN2Z4RlBRYWJZOV8tYmJQZkNaYVJnc0NfckxxRE9Uamc?oc=5",
+      "source": "Diário do Poder",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Feriado do dia da Consciência Negra: o que se sabe (e o muito que não se sabe) sobre a história de Zumbi, que inspirou a data - BBC",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 09:02:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VcW5pb3JyNEtRQ1N5LXdJT1JZb3AxN1pxS1ZkTGtGRFVtWGxiTzNZUUZIbTQ3QlVkd2k5X2FyRk8xbko0ZU1QZjl3TEF5cVJPam90R2pvYkZoak1UZXRzXzRQONIBaEFVX3lxTE9iSVVKMzhCd2VkVDk2THlWOTVycFh3X3dJaUR1Zy1ObEphUVV6Y0Vyd2Vsam1XWlV4NEFsdTRiWlVoOHFITjJSVWxmdzZBYUFhNEFMY2lOZnp2RExLcXN6bWhLY0t5T2JX?oc=5",
+      "source": "BBC",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "China é a grande vencedora de reunião entre Xi, Trump e Putin, avalia Jamil Chade - CartaCapital",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 21:37:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlp5bVJDQzlic0xCWGx5Mkx2Njd6a0l5OU1kbGJsczJidVRsTGROOEJJdWwwOVRHeXVaejJmLXZZTDdlbmxjRllKMmJ4WXA1SkROREZsZFpmV2gxUW5sWmNNaGFDeUl3Z0I0ZDkyZ29IcWQzVFlrS3lMajZKVVVmYXNUdTNQWm1DSmJzR3lEVVhaeUdxRXM3T1EtSGt4NGZPMjFIRUEyY1dON2NJVEVuRENuM3U4YXRMOEE?oc=5",
+      "source": "CartaCapital",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Rússia ataca Kiev após Putin prometer retaliação; 6 morrem, há apagões e pontes são atingidas - G1",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 08:39:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlhVdUFzdHZjV1ROTXFuWVZnUkNMUUpnNkpuYjM0dzBsVmRXWTNzMlFZQVZmVHktSW9zaW1FVkhFelFhSVZiOHF4VHRIcmQwM0FNaEhleTZ6anJYTDV2bUVUYXI1dzQ3aUxWTm5lejBaaWdnbmRvT29nbXctZmNIaXZtM3Q3eDVIT0Y0MWxMdlFpMWtMYldsX1R2dWZiZ1MyTkHSAbABQVVfeXFMTndYU3E3c196eFhsaWtOVUNzV2IwQU50NUlrZTJOYll5bGNzNk1tVmZCc3U4cTNWek9ERzV2dG1FYXpLZ192X3pLbVY3Q1lXUDdWV1NuRHVIYTZOOTl2dnRMbTZrc3IxalNvOUpxbXVrWF9zWldaQWNQVXhQc0N2a2Q0aDd1MEZTajJJaS1RY2tMaC1PNE16MUIwcEZyeGp1Z2pBSG9Ga05NdnFRQ0JNNkw?oc=5",
+      "source": "G1",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Mianmar chama de ‘injusta’ decisão da Corte da ONU sobre genocídio de rohingyas - G1",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 08:29:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGIzQ1RkY0J1bjRUWFdsT3lCRF9NcEJzVlNmYnVoUk5XZEsyNW9XSGFaTXpkb1pFV3dzdHk5ekpJWGVIZXhKYjhmRFJYYnNuZFhqUWlqa2JvV0FpRHk1R3duV21PNW43SlBDaVpoUkZucFJPT2hGOEREUGRMTHEwazhuMUtKaHA4VFlnMjIzbm9NQkVBeHNKd3FYTnpGWVFHeEhUcS12RnFodDI1NTROLTB0N0JQSkV1bG5aeVBwbEVtMjlFcWw5TtIB1wFBVV95cUxNWU10SGFmTUw0aUhHT0U4VVRZYVk4TU1RUzVOTDdhVWt5ZlIxM2gwcG92SF9SdmtqNzJzYTl2UFdJVGJpNWFweVRpQ1JVaGpjNm8tX20zUHRCa2JXMHRKSE0tUlhPbzBOcEQ1VEJaUzd1ZlZDcTd4em5yNmtvRWNScEdMb3I4YUVkNVVZZzJDV2x0RnN5NjE3Z2J1WGZTTXRlYU9zSjJDWmVnNGh2RWNORlUxVGdybUhmdlRvbGhXYmNYTDlnekttcndjMk1jR3pqQXNLMXlmTQ?oc=5",
+      "source": "G1",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Dez anos depois, Reino Unido pode reverter o Brexit? Entenda - CNN Brasil",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:53:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMF9ZY09JQzByV1k3SmxFMWRNYXVHMzV2d0tvb0ozNEEtMUFxRTYyU0ZoMVYyRUsyWVJMNmotbGNTb3R5c3AzemE3M09XQ2pMRTB5T2VGaWdtYmUzbEVIWkhVRXBmSGp2OGlsOVBqcFFwM2syUWxtY3QxRi1BNFNNR0ViYlVyZW9BNGVRaWFTeGd1cmZFcmNOV1BQMG9CaHpuQktmWA?oc=5",
+      "source": "CNN Brasil",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Anthropic x OpenAI: como a rivalidade entre os CEOs virou símbolo da corrida pelo domínio da IA - G1",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 06:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSzViMURrQVM3cTB4REUzdEhrY0JtNTljYnBNWHgxamMtaUxpamdVdmFOMEdyQlFPREliUFE5dzR1MVhyOFhrZHRQSTZmbzhFTFEwSHpKdUNWSE1ERld4dGpWY1VaMlE5R1VKbFBfcFNUYndjZmdGWEVSOTBLVzlCUFBKUmpLWHF2eUp2b0FJQUVESFlsMTA0SzQxTVc4VWgzUXoyNXBjd241Y2R6d19ZY2lzbWRVM2JsNkJFX3lnNURhbzc5Tk5SS0ZfaHlfanZBNjhneWNMS0NGZ3Q2enZaT19LNjFYZ9IB9AFBVV95cUxPMzdnNzcyZnVGRkdjYjl2b2ZxbnROc1ZKSGk2T1F1a0NIR3VrRXVMNUFhZnA2MVJFTU82Y2pkQ3EzSDlVOE90Z2dTeEdTRGhoejE1ZWNRck5oVi1oel9SUkRRV1BVWlJoQ0xRRHNrbzRSeE5qRnltRWJ6S1RHMl9MTWxCZEFmMmNNaWxybWNQajVWSDhrSF9OeFZISW1lNmJEdmN0cnBCMnNQZE03aFdiWWpMNmRxMHk4bEp6cE5MZkp0Ymc3R3hHWlFJbVJLUWNMc2Q5SW1qdTU3NUJRdGJHdjk3X20tQjF5bC1ZNWtiRzVoYlVR?oc=5",
+      "source": "G1",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Dólar dispara após falas de Lula, apesar de intervenção do BC - Gazeta do Povo",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 20:24:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVlBFQ0JCVkhJeUllV3hCMWw4UTFtQ2RaYTk3akt5YUNYNzQzY3pXYUcxV0hjNmoxcTFZOVQ4U3UwYy05VGdhU2hYYTFxV3d3ZTBkeWI5bW8ybVpnZGdwNDMyZ1A4NklCYW94Z2I0dXEzTUFfUm9JdjlRU3ZYNEk3Sy0xQXZsQ05wTHhGQlB4ZlA2RnIxQmpESWxYNA?oc=5",
+      "source": "Gazeta do Povo",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Mega-Sena acumula e prêmio vai para R$ 45 milhões - Agência Brasil",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 01:20:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3VDbGdRTzJaMVFONEVaM2tXWTZjcTRXWUNCUnZLWDdaOHczWnF5emJqLXo3SVVPS3NQVjNXaHdha1ZJY3JhSDRseV9sSU1tN2FaV0g5alpyR0pLUFpsN2lKYTVzbWtORW5jcU5TRzJNaHcyUWFBblNMUWFfMkFBN1hSSVUtbVk0N0wwVk5neFpUb1Y1dnV3Y1ZUU0tpeS1mZ3B5YmtWQ3E3dw?oc=5",
+      "source": "Agência Brasil",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Calculadora do 13º salário 2026: veja quanto você vai receber - Campo Grande News",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlRUa3VlZXRHNXI0cldscHpZVHJmUy1XZzRPcEh1ZlhhUGtpOWx0c25wNDJWLUs2cGc5dmpIcHMtNXBMeHlFbWluQXdzMDVRX1BmVzFEbm5yR2thNWZkZWJNUGpRcXdjZ3hmUDdReDZhMUtDUnVwelpuN2dkWkxlZnR1WnpnZVd6R0xidWl0NDV4TFduWVNUX2FwNG1xSlpnbEZzQ0ln0gGmAUFVX3lxTE9KYWl2ZjRpQnFxQ1hsSGNNdjI5VkZiNFgtekVZX0thSVZSZk8tZlB4TjZJdTBsbWJPOXdNei1QRklBQnU1NFZTQjdZejh5bnB2akVJMnJnYnJaZDRTSmRUVUhUcTZLUGhBbVVGT2dHT0doUkdTY3hacVNjX2xJZTBaOTlRcUg4QkdzYnJ0eDlUbTVOSEFNVlRCV3ZLUklhUDdCYUFXOEE?oc=5",
+      "source": "Campo Grande News",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "GTA VI é o maior lançamento do entretenimento de 2026 - G1",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 00:37:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEcyUEVYSUZ3M1VxVTlvbGw0QV94VVlmT0t5STBwRjg5dlJCWElndEtKeExDQmt4cTRaRXRESUNXbTdSU2oyTFlBVURpLUpuTlBNSlIxMlMzeklod200OUFxRWgxOGNyYW5fajV4S0pSOUNEY0NYUHN3RW9LemJpUEd4UmV2SHc5TF9ZXzRhc3pCZGluR1dFWlpxNjdYMEFfZVBuSnBpMlNQYmFiQURScDNad2VBZ9IBxAFBVV95cUxOV1dScWFPRGpFUHA2SFh4cGtwUF9jQ1g0WXZKSnNKcW9WZU5HQ1VrMThhTmFsLS1oUXpzRG1CM21vQ3FGakdGVm44S3ZaemhyYkpTMWJKWGdvcldBaDRMRUhBT29HeUF1RWprWG5sTk5ZZHByTVBqT2doTXBuRmhSZXRHcHNrM0lTaEE1Y0ktRnpjRTZpN3k3OVlWVGV3eGliX3d0N3d3cXU0YS1MMGRUcU5STlZFQWNjMUpERjViSWlIeS1R?oc=5",
+      "source": "G1",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "Black Friday 2026: g1 acompanha preços de 74 produtos para ver se desconto é real; veja os de hoje - G1",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 13:11:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZUZsSGxmNVZSdnNqQnpOZHpPOWd6VHdBN1lqUVd6VjJYWDE5VDZYdkVXbHJzV1ljdjdkc2M3UGQ2Q3pneGp4Zk1tQ1g5OXZMYzBTMnREcUN0R0xyUjNxTnNyZnYyZHRNMU16bFZ5bm1ocDJxczJhU3ZQZHd4MTJyTXZ0bl8wc0lMNElVMVJyRlhtcUV1eklxT1ZOaHM3R00wQm9SbHBxQlVLUFBROGZTN1p6Z3l0WWxBTnBWR2tXNTNxVldZYlJDWVdEN09uVGxoSGNFa2hNbUVHOENWY2xJcTNjWDNVbEFP0gH3AUFVX3lxTE9HM2paY2VPQTl6LTBIQjdpRTAzQ2ZrS2V5dXlCYkt5Ul9SOGlkb0VsVVVZMVBDamNXdW9CYWszc2k1czBZUm1CVzhUWXdEb0loYTlOTGRfWXpjWTdpSGJtdFpVZ2lmTVRlQU9fSzZNNzM0QkJXbU42YW9RNnFKUjcwdkxzWFc0MlREMzVRV2FfaWl6dzJCR0tnYTJwZGFYTzQ2TEF6ZDEyMmp1MHhFUjRXbE1pWThsRmZIQ2dOREtmU2tpVmtReXZPOWt3SUtCS1E4dU9YOWF3cU1WWWx5SnhVSUlPVnFQc2VKcmlZaXRTVERldGl6MVk?oc=5",
+      "source": "G1",
+      "evidence_count": 1,
+      "country": "BR"
+    },
+    {
+      "title": "anthony boyle",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 06:30:00 -0800",
+      "url": "https://www.forbes.com/sites/ninabambysheva/2026/11/19/netflixs-nerdy-romance-between-cryptos-bonnie-and-clyde-is-a-cringeworthy-watch/",
+      "source": "Forbes",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "elizabeth debicki",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 06:20:00 -0800",
+      "url": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film",
+      "source": "About Amazon",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "jensen huang workplace culture nvidia",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:20:00 -0800",
+      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+      "source": "The New York Times",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "melania trump",
+      "kind": "pesquisa",
+      "traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 05:50:00 -0800",
+      "url": "https://www.bostonglobe.com/2026/11/20/lifestyle/melania-trump-documentary-series/",
+      "source": "The Boston Globe",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "thanksgiving",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 05:50:00 -0800",
+      "url": "https://www.pbs.org/newshour/economy/americans-will-pay-more-for-thanksgiving-dinners-this-year-says-farm-bureau-survey",
+      "source": "PBS",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "guy oseary",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 05:50:00 -0800",
+      "url": "https://finance.yahoo.com/markets/article/kind-of-cool-early-anthropic-investor-and-actor-ashton-kutcher-celebrates-ipo-200123416.html",
+      "source": "Yahoo Finance",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "abdul el-sayed u.s. senate",
+      "kind": "pesquisa",
+      "traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/el-sayed-trump-israel-aid",
+      "source": "The Guardian",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "grandes ligas de béisbol",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://elextrabase.com/2026/11/19/darwinzon-hernandez-regresa-a-grandes-ligas-al-firmar-con-los-mets/",
+      "source": "El ExtraBase",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "3x3",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://www.chosun.com/english/sports-en/2026/11/20/NRZWHE6JDZALNMJMISDCNYKGZU/",
+      "source": "조선일보",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "turkey",
+      "kind": "pesquisa",
+      "traffic": "5000+",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
+      "url": "https://www.cnn.com/2026/11/20/climate/cop31-talks-fossil-fuels-finance-electrification",
+      "source": "CNN",
+      "evidence_count": 3,
+      "country": "US"
+    },
+    {
+      "title": "White House removes cyber-security chief after series of tech outages - BBC",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 13:28:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+      "source": "BBC",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Senate passes bipartisan energy bill amid environmental concerns - NPR",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 11:00:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4dkFVYTd6d1Q0ZDE0TGtVUmJaaDgtYjZfUEdUMjJ2YlJrZi1FVU1aUmx2eE9NTHRVQkhpNWZRUlFobVEyZ3dtalpGMkIyOHlPMEt1Qk9rWVZWS2pTMmRXZHBCQ3hDOEpCcUdQUWIzejFNYVRZOVZWSEhQUTM?oc=5",
+      "source": "NPR",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Russia unleashes retaliatory barrage on Kyiv bridges - Al Jazeera",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:03:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVTZ2NTYtWVl1UVdWUUEwRXN1LTZTSVUyWTZ3d1VBX2hvLVJWRmxQRmZWenFRcTB2M29aX3ZGTWxteUVpakx3UmgtdzdvUnA1dXVPSnh3T2tXQklCV290V0xGVlU4dHBOaVRPM2I2b2M1U0ViR1U5TmhLSGZTUDFtVzA0RTRHby04UkR1NmhNTWxIdUdZSmVmV2VB0gGfAUFVX3lxTE4yaU5yemNrMVAzTDVYdGtMcFpBZ1BURXZ5U1g2U3R5VlROaUxmdFdvVTVmWGtRaEotQUdndEJQazJSZi12c2xsclh3dHVLLUtud1dmak5HSm5rZVlVaGVRZWVXajNvYURVM0lhYTliYWd5TTBSbVd4RTZweENvMXJ1VUF6V29FVTl3aGhfbWNseE8wX3JPMkkzelVzUENWRQ?oc=5",
+      "source": "Al Jazeera",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Amid public concern and a lawsuit, U.S. Army delays detonation of lead explosives - Iowa Capital Dispatch",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 02:07:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWlFJRVdLLTdHUTNWcWZadFEzN2JiRk54N3hzRldWREdWYTd2eUFxM3QtUlVKOThrb3Zpb1V2ZHBYM3IxN3hJcENtemQxeFdWT3lOcjlrdjVwbWRQeTNaQkFvaXd0a3NjQTRjcmtqZDAtVjByRHNvOXA2clZZZFNROUFIc2lZU0FXMHZuLVRPQkx0bHZKTXpITXl6a05jdXZMdXJ1alN2ZDMzQWVQWUFvX3pEdWZER0Q3bW1LV01wTm8?oc=5",
+      "source": "Iowa Capital Dispatch",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain - NPR",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:24:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjZuUWRMVWhicTNtVjRFOFBQQlFyQ3QxZU93RVJkcUlJTzVBVVI4ZTFnbDhEMWo5NktFYnVQRmZtLVlrbWpWOWZUTU04YlVnYXJUWldpbUVsN0hFb3JiQ211X1ZlUG1TYzBGZmVRZmxxSzEzd25rcjJWbnpoRUxzbk9UWUZ2QQ?oc=5",
+      "source": "NPR",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex - The Guardian",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3VOWmJISHUyQnRZSURJemRGa0d0MDlDUzMzUm5JVzlZNTBvLUJRLXVna2NoUGo3ajN6OVNueks3Y3dFYXVTR2s2VjZjT2ZKQ3BfbE53UU1TNy12a1pyX3lJREhSclZ3dkdXem5qTTRTNzlzUTRMeDRXMkowU1dwV3Q5VG00NDMxdGc?oc=5",
+      "source": "The Guardian",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Flooding, road closures continue across Central Florida as more rain moves in - WESH",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:03:39 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkZSc1NCNmVtRmVzNDlGeXdIT3g1SXdMbE9MRm9DUDhIQ3l2M3g0dnY4M2FlYVZyOWd2Ukl6UUdBUVJXcXQ5Mnc2WU8zVHFySG1xblNra2xmR2hHeW9EUEdZQ1ZpX3loMDhfMWlCQmhIZlhBQVpVMnBHaFRJY0FxSmhoME5vcDlDZERvUkJXX3Y?oc=5",
+      "source": "WESH",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat - The New York Times",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 03:25:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcUd2V0pYbFFZeXhBYTVxNERSVXB6ejMyNjFFRUN1eEhhTUNEb0RoS2dLQnZMaWpEaERJTmtWaDliVEZZR1Q5RXVERjlral9qcHVDcjg5VGlzYkNXWG44dmdrX0ZCczZuVnctTkJoSmFvcHozejRUQmpRTjdrZFU?oc=5",
+      "source": "The New York Times",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "From Beto to ‘Blexas’: how Democrats flipped Texas during the midterm elections - The Guardian",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VVFlhRUNSWEtaeGtsZkNhekZYbElxNXhCc3ZUS3VfNF9IVi1KLS1NdUp2V1BkUHlWV0UtRFVnNDhGelhEd08xdnBhRWlYZVRDSDdFcEpQMEVSQnh3Y3hfR0FRSGN4VGRiQ0k5bnhFT2ZHcWd3bjZ5cEJVaEY?oc=5",
+      "source": "The Guardian",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "DOJ looks to dismiss Alaska Senate lawsuit - The Hill",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 03:25:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMklEbEZkZ3FyT1R6cll2a1lDa2dHeHE1amRweTU1UXRkekNzRHg3S0hKcDRXa1dsd3ZyLXRXMTJmazFCbVUxS0FpbWw3UGd6bS1rSUM5N2cweFNLbXZFTHdjQ0U4ejVZTkVJamdLZDZHY2duRERrMGs3dHVqSkIxa01La3g2WnpiTmJFaV9Yc1llWkRxOEh5R1ZVRdIBoAFBVV95cUxPUjNmd2tXYzlhU0t3Vzd3SzliVXZhLXdhd1Jqd3BHTmZDQ3JBZ09EMWxQY29RUDkteU1yd0phQktNS21BSk9tbWtPSGY2X1VGelU0RFdRSlpRSmQzeU5GZlpIMHR5eWM3X1g5VV9lbFJXY0VEQWIxLXFGNFpFLU03WjJPS09RMVdLdU5hQTQ5Tm1VckdJUk13Mk1oSGhjZ1V1?oc=5",
+      "source": "The Hill",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "UK and EU agree deals on trade and youth movement, pledging to rebuild ties after Brexit - AP News",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 13:14:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5",
+      "source": "AP News",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Saudi Arabia says Houthi attack damaged Riyadh tower - Al Jazeera",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 20:14:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2dSRXcyNzdIa2VEZW4zd1NlS2pyb2gwaTkzVUw1aDQ5VDVsdjJDeFJfekYtekhlNFgzRHE0VnNxVXN6dC1ZNUoxaXA1SDZ5VW9QLUl2REU0d3VDdEpFSXNCWDJIaWZtMUJKanU4amNhWExFY29pZzE0RXpnQmVhbFQySl90STgxdkFzTzllTkNUYnBlWWhGSXdOaWRmS0hQUVFVZkw5S0dNbXpZSXpBd184Yll6QdIBuwFBVV95cUxQYmoxb3ZGV0R2YVcycm1LM3phc2FRaWJoTXhMc19TVjhISWJ1ZERTNE9Ra2Exbjg3QjNuZEJMcGltNWZ6Y2N2cHJ4bUcxcWw0aU04Y1RPV3l4dEh6cXVLRDlxSGJubGloeGVSbGZrUTRJcjk2YlRiWGVTT1Znb19xdmgyYlZHYVZua2NvcXlfNW1TdHJ3YmhEOHRzOVpKMkpObTh4Qkw3RUp5OHBlMDRIZ1ZYTVo0X1dxa2s0?oc=5",
+      "source": "Al Jazeera",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "U.S. and Israel considering new assault on Iran, sources say - CBS News",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:02:39 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzFPc1pJbDNCSGFPdEUxQjJ6ZTl0eGc2RlYwNVZ0WS1GRnVUWGNtemhtNENVcGFReklwbU9uSVFJcnBRSFJqTFVTX0hqc2VHSG16cUpiY2pCSW5JQ2hWa1J6RzZ2NENMQjQ2LTJNd3A5VFNWNGtFckRpaUFxdzlxN3JfVldfRmVmWE5SVg?oc=5",
+      "source": "CBS News",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "On the ICJ's Judgment in the Myanmar Genocide Case - Just Security",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 14:51:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6UWx1Sm1GUE1pNmtTdmFsbXNqZ2luSE5uN1dKUmprWWRGUk92Z29MbHlhc0hRMGl5X01jc1Jva1A4ckxQM1g3RmhNdk9vUkdVemFDd3VFSjk4UXF1VS1GWWR6NmtyQTZ5UExnREoyZUhJel9QSHBnZzAwaVJtZw?oc=5",
+      "source": "Just Security",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Stock Market Today: Anthropic Stock Drops Premarket; Nasdaq Futures Tumble — Live Updates - WSJ",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 13:32:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJaNXRFdFZIWkwxWDRYUVg1U0N3MmpzMHN5aFlMd0ZJTGdBN3lhamZQSGpqbUY2UERnTGhKeVhzYUtsY0Q4V280cDR3WU9qNGtTVm0tdFIzZ0xXTFFxM0NFUjNhSkJLeHhfMG96Wi0xYVBxT2wzQVJPNXdCUEx3MF91QU5ZT2s?oc=5",
+      "source": "WSJ",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "US approved sale of Nvidia and AMD chips to Chinese companies - Financial Times",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 01:40:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZTNmxkcXpZN2hrOFVhQlFhR1dfVVQ3ZkRCdVFVVi1mWGZfTTBjdDJ2S1JtV19ISjBOdll0YlduVEtMODFHUDhlY1FDRzZVaWVjdWd5RnlpTlh5cXk1VjBENmJWNjRFMG5VX1B4NkVNYlFyY3p2cmZka3RHYjRlakRvYkk?oc=5",
+      "source": "Financial Times",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Panicked Shoppers Stock Up on Canned Goods, Water as ‘Doomsday Prepping’ Spikes - Bloomberg.com",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 18:27:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUtOSTZnS3NZWG5OUnhOWjVhWkpuRjRTNlNFRWUwYUREYnlRaXVIbjY5Qy03U0pfZWZ0RURRd2lLX1MxLW5jN1lRRjhZYXBaczVwYWhQa2o3ZnBJNFUzZjlnbTlNQXgyY2ZEMThjRXVjMHVTT1pINnNydHdqbXVJWTlaSm1ESExJNFhOWWdwUDVxUVpTR2FHaXh0ZjhqeUgzamVHcUg1SkZTblBOSkRGZm9HQllfUQ?oc=5",
+      "source": "Bloomberg.com",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes - CNBC",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:00:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSThSM0tSY2kwWGpaZVBlVjNnbldDdkJrYVNLaEtxZDhwck9lQ1ZkOU9rMWl5TXI1NHRPU3ktS3ZoN0RCb1RLWTdGdEJrWEwtV2h5TkVydVRyMGxLYTlYQkdKSjN6ZHFrS0RrdzhWd1NScUdNX0JsYkE5aFY3NHMzZkp4a9IBiAFBVV95cUxPSjhwbEFSSTR0U1FOYXU5TFhxMF9FeVJQV0Rnc0FZaGdkd1RySzVZRmFHemMyc1U2NG5SMlEteFFOWGxqRWN5QzBoYjdUZ0dTdkFONTlrblFqekJtUEZnQ2NiLUwxU3lUSWptUjNxaU81a2NBWDlfVEx4bVEyRGp5RGRWRHZEcGJZ?oc=5",
+      "source": "CNBC",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years - Yahoo Tech",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 14:23:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
+      "source": "Yahoo Tech",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac - TechCrunch",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 00:56:01 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVRpWGxyaWRqbnBxTllOMGFSNkxUTVJweUNGX1lLWVRXbFpSSnVadUJTYU13TktrRWhxYTU2ZlVyLTJ6YU1qQTVwZGRDN2l0ZEZYNkd5a0ZUcjEzZXplUFY2TkFnUHFUUFhjelFGbXhoc3hoVk42RWE5NDhtWjlNeUVhbmd0Q3hKUTFfOHY1MFhOYzFFaHI0bHd3?oc=5",
+      "source": "TechCrunch",
+      "evidence_count": 1,
+      "country": "US"
+    },
+    {
+      "title": "nitto atp finals",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:30:00 -0800",
+      "url": "https://www.atptour.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday",
+      "source": "ATP Tour",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "patrick stewart",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:20:00 -0800",
+      "url": "https://www.tmz.com/2026/11/19/patrick-stewart-cause-of-death/",
+      "source": "TMZ",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "desfile 20 de noviembre puebla",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:20:00 -0800",
+      "url": "https://es-us.noticias.yahoo.com/puebla-suspender%C3%A1-clases-20-noviembre-221619628.html",
+      "source": "Yahoo",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "paola rojas",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.milenio.com/espectaculos/famosos/reportera-kariana-colmenero-fue-amedrentada-vecinos-alvaro-obregon",
+      "source": "Milenio",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "actor de you",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:00:00 -0800",
+      "url": "https://lopezdoriga.com/entretenimiento/murio-alexander-haskin-actor-de-you-policia-abrio-una-investigacion/",
+      "source": "López-Dóriga Digital",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "lili campos",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://www.eleconomista.com.mx/estados/detienen-cdmx-lili-campos-exalcaldesa-playa-carmen-20261120-844985.html",
+      "source": "El Economista",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "carlos alcaraz",
+      "kind": "pesquisa",
+      "traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
+      "url": "https://www.espn.com.mx/tenis/nota/_/id/17534708/carlos-alcaraz-vs-flavio-cobolli-a-que-hora-juegan-y-donde-ver-en-vivo-las-atp-finals-2026-resultado",
+      "source": "ESPN México",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "día de la mujer",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
+      "url": "https://es-us.noticias.yahoo.com/emprendimiento-femenino-cierres-falta-rentabilidad-233000389.html",
+      "source": "Yahoo",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "black friday",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-black-friday-deals-2026-11-20",
+      "source": "CNN",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "cuando es black friday",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 04:40:00 -0800",
+      "url": "https://www.eluniversal.com.mx/tendencias/cuando-es-el-black-friday-y-cyber-monday-en-mexico-asi-puedes-acceder-a-los-descuentos/",
+      "source": "El Universal",
+      "evidence_count": 3,
+      "country": "MX"
+    },
+    {
+      "title": "Una intensa semana en China consolida al México de Sheinbaum en la escena internacional - EL PAÍS",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 09:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOVBRNXNpdmE4VnpQd0JzMUk5VVY3VjBacWhaX0ExTEF1Szd2Ni0tNzIyV2MzWlVmLWRXUTNRcFdJRVA1Tjh5QWFmQTNaZ2lfU1I5VzJRYzh6X25MUkZpaUNYeGY1bU5xUVNSVGY0MmFmTXJ4dW9YOTJQQk9ZSFFjaW13azRaaGI4MnE4MkMtcEpJaWlDb3hUbXZKMVFxZ1lRZWtyUkk5ekNDRmcxQkpQbFVhcTh6X2xBMzhYVGZ2YXNpWE96bWRKMw?oc=5",
+      "source": "EL PAÍS",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Xi, Trump y Putin en Shenzhen: quién ganó más en la inédita cumbre trilateral - DW.com",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:47:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1BISk8tX3NUdTF2SFZJcjZLQ2FJbEw4eWVlQmc0M3I5T0lETUQ3dmpmVGZBNDFxZW5JQ1lZcWNaQzBmWDNacHpWeUZmZFluQmZYdmRMckMxaTdtakJ0MkZMT0VRalNyMHlTRERmQXMxVzlFZE1IcEpmaDNmSGRzMURuX21lY3E2Y0pKeFFzR1VmZGwyblQ1ZE1oaFVIRGhJWFFsVW8tNNIBpwFBVV95cUxQV3dkaGdabzU2bUxpT0dZSl9fTFl2QmdvbkF6eWxrZTdzZlFZU3c5N2E2Wl9RQW5zNi0yVFJZOExaYVdhTW5iMUlMekdoV19HV0RBNGh2UDhXdUJzTDE2MGhOaGNWRHl2aDVyUVhuUFJsUExDUmpjWjlBTUNYWkhhX1J0WjJCVWZlNUFUaHFvUGRiYXQtUEpQbllZMnYzaEFwSWx0dmotVQ?oc=5",
+      "source": "DW.com",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Fuerzas federales capturan a célula de \"Los Mayos\" ligada a la matanza de 19 personas - SinEmbargo MX",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 20:56:34 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEFuYV9RaXhJMWFIREo3djlMLWlhbmxHajZBZ19fdmlLZWwxTUMwQi1nb2JzZ211cDBKRmlpb3FMR2w4M2JVY1k0NzVnODRFRmtMV3BEQTdyVUdsVjZqTVBZcnNEYjhBU2QxVGQyUVZ4cUdsRlZ2RVJ3U0NpaC1fdkFSUlg4M1F4RHkyUmUtMy0tNUhhN2JmQnVya2g5ZjNuNFNNMHc1bDdKOUc2WGtuNkt6elctM2FFY2c?oc=5",
+      "source": "SinEmbargo MX",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Estas son las calles que cerrarán en Toluca el 20 de noviembre; habrá cortes desde la madrugada - DigitalMex Periodismo confiable",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 14:00:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRl8xUEg5UmtjRTdPUVIya1ptVktYcmVjRVZfRHVoODdVNmF6ZXhaRXNEWkJ0LVV6dnhwNGdPVzdNZGRaZDBrY19Gb2VqZExyZTFaekgwUGhscDhacWpKY2hOeXF2c092SFFzV1dNYWh3eGtUVzYzeDBpbWMyQlJyWF9UWnMzcWNtdVlWYUEtd21HRmtqbUg0XzJ2eXJ4WTUxa3FpaHVmSGN0bTYzemYzU3V6WVk1T2pHM1FIVE15TmJPS3Y0WGdjNG9USlR5ZFp4Q0QzMXZrSk4yQQ?oc=5",
+      "source": "DigitalMex Periodismo confiable",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Se aproximan Gran Masa de Aire Frío y Frente Frío a México; azotarán con heladas de -5 grados, lluvias granizadas y fuertes ráfagas de viento de hasta 80 km/h - vanguardia.com.mx",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 13:00:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWkxaRUZKOXhPQzNiemxvMXN0ZFlXRjkzUUExSlh1V1Z3cUhaS3NXQ0Fsbm1zZk1Wb0xhWjUwNFpkdDl3Q2lmSm04MlpLMTJ4cVdtamhDT042T0V2VVpOU0wyaXJXa3ExMjdFalYwN0dNemV1VDVzYVR6cUluVE5NcXdhdEUzcUpzSEhzYUdwY2pnR2lITkZ4c3lqeXVOWnZRWEhxWklvcEstR2Y1YVlLRGJUVTZwQ1ZTcDhoVThibDRfY0J6cGtiUlRza0FDamlyZ1dhX2tZd0xPUnR5aHVOcFFKakwxUXJQWVhoSFpZdG55N09pN0VVbzBfbHRoYzliV2VOU0lZeldGc0xzNlBjOTRPbTd2TktZcEtPTTBlNHlvUQ?oc=5",
+      "source": "vanguardia.com.mx",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Convocatoria y elección de la Presidencia del INE se retrasará hasta 2027 tras el fallo del TEPJF - La Jornada",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 18:03:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSVZsWDU0NWVVbHZrUW40a2IwQ1Q5VExUMGh5WlJiR1pxY1lxcFNXQ0xOdm1ZOFF0NjJOZHkyUkxidGVBY1BRZnFpT1BOWEljYUJHRGVKRVVqdXJsUlV2Zjg5UzM3eFQxaUxLend2c0lwa0hhTjdiMmNGVzZpLTJEdC1lb0d0TVo0dE1BZ0lsRXZscjVGRTV4SWpoMEtFeGdMVXlHckJoNGJEa014ZW9wZmxCdHdPbGxMc3ZvUVRsUE5oNl9XUGJ4c2FfOFE5ZjhGZzBWaWxoUmxaa2Q0N1VpWjZ2M1pCYnNkLWc?oc=5",
+      "source": "La Jornada",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Embajada de China en México acusa a EU de ignorar su crisis de drogas y culpar a otros países - La Jornada",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 03:26:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUV8wNzFyVm9WN1ZZN2M5ampNY3dlQTlTOTVGMGkyQnBQcjVuZzVWNE5KRWM3dktwSTdRN1BMYmIydl9ubDVaUWxyZTZiSkNXVzJhb005YzlIdGJFZE1QcW1HYmVLcUFkb0o1TllneG1RNzhWSGY2ME50WjlxdWZOS0Fwc19hN1p2UWVNcWhzSVpxdkdCUVZnQ1NQT0hGUzFqV2h5WklEaDd6bHZiaGE0NXBxSHE0MnY1UTNGYkY2WmdSQVpnVXZkRXdRVlItWDdmc09rMUJBRWR1UVJ4cVdpZlVR?oc=5",
+      "source": "La Jornada",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Sheinbaum asegura que las negociaciones comerciales con Trump van ‘muy avanzadas’ tras reunión en China - El Financiero",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM0xzTnZRNEc4RWhpT2hsajVVNVE1RFp5TW5FTnVySUdCRFJ0Ty1Uc2kyall2TGVXcWlaSE4zRmY2bjhubjJoS296Q09vdjctRHZOMGplT0ctN2RrMFJSdDFYX2NxVHQwVm0tcVctVXFjUUJERHpjc2FFaEpSV2RsUXNOSDlPVWFEWVZRbHBUTWp2UTVvbVk5QWpFR0drMlk3N0FpS05ZNi1ZRVQ1VTBNYkF1QWFPcmo5TTBTc2RpU1N4QXhZZ3ZIUDl0aEd2NlJ2UE9XVktVZERpaThUc1paSXJRVFR5dF9FdUE?oc=5",
+      "source": "El Financiero",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Unión Europea espera que el gobierno de Sheinbaum envíe al Senado acuerdo global para su ratificación - La Jornada",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 01:41:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYUd3UGJwUF9mWVZoNnlaN1pPSUhzMUd2RC1PekJMa3lwekZMSE1SSnh2WFBnVW5YbVJfZTJJSFlhZ0djUTU1TURaYmp5S0Y0bjFQcWFzVjZJREdyaENzbHBEQjVSb2V0d2pEcjZJR0c4RjVCSHZJT1QwSjVzS0lobEJmVXAzMXRYSFd0SDFaSFZTeTQtM3RBcWthWnFfTzhvdkhDMXV4LXVJbzU0ZGI0Ul9MSlBJdFU3TldxMWd6azB5OGU5ZmFmU1pGazdpSnlmSl90dFYta0FjR3Y5V3JoamV3RXdZQVFvcXI5RUQ4a3g?oc=5",
+      "source": "La Jornada",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Sociedad y Justicia - La Jornada",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 12:03:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvcWxSQU9FOW5pMGZsa1pVbkZRdHBXNmpoWS1ZRkh5TEpxMXZJZHpheWVfbFIxMEZtY2ItWWVfZWREUE1WOHpkcXlWNkRWX0RYX0lIZEJndndxdw?oc=5",
+      "source": "La Jornada",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Zelenski revela que EE.UU. preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN - DW.com",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 01:23:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzFMZDNBOFRhM2YxZE0zSXpRY2pyOWRVQ0wyRGhRTVNpbkhyeV9ka1U2WnVGcVZneDN4cjJsQ3NhSGJTRDMxRERXakJrM2tNX3VCbm1xdmNZR2I1MS1zOFphdDhtc2RTaGpzUUR3WFpaQXUxODJzTVNyamRjdUEzeU5iOXFTVF9EVVdBWDl3TmZvVHMyZzRoeEo5ZzF5T0F1UDJLUkJHb9IBpwFBVV95cUxQUkloZGgwenFqZENTRkVQX0pwMUVqVEFhUGV6U2xLbk5pZzhGZzB6RFVxem1rOXV6bDFBRWg2MU5xQXlfRlFSUFY3dEZfaEh0a0xUQzRCc2RBTHdVYzZQOEk0TUdndVM2bkZzOGl4YnJ5WTd0WFlYS1FwSnMzQlVGUnpyd3ZzdzI4S01jM1ZKVmNjeVo3SEhfVWY3RVlZQkpyOW1QOE5RMA?oc=5",
+      "source": "DW.com",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Despiden a jefe de ciberseguridad de la Casa Blanca tras fallas tecnológicas - La Jornada",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 01:56:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR1VGanYyeXBRTjdHOWJaM0JuWnNjVy1LT3FKbnVCTEYwS1lzOFBOSnkwLWFHOTJ4VWtBUVV4SHhIbV95RjlzOTVvbW9zbmkyOFdaejNYYWlwZUh1MFA0bFRQRUVzOFJmWFpMb1otTkxuM2FjNXE1OWNHSnJTRjlXSGZ1NkFXcXQ2WXNQcjlxWXFuTi1YbDR4NDhkRncta2p5T0FiNHZva3JkanhJNVJzNjhkeXhMOG1NUHBpMVlqajloRmx1UTdv?oc=5",
+      "source": "La Jornada",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "APEC 2026: concluye cumbre en China con llamado a eliminar barreras comerciales y fortalecer el multilateralismo - La Jornada",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 16:38:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeVE4anNMYVI0TFppOXJSbWFxVE1FSUpnTXVWSTRBdHZWUTNvck9nalM5dWhtcEdZOEtNYndNV2pGRDBZUlhkU0lobTZFeklZd2hVTGc0STVyeUhQTl8wTGNoQUthRFJQUFJMYmN4WTFoSXlXQzhhS0xfNVROYW05RWVkc0lxS203d0lfaGNINDM4OVBqVkNnX05YUmw2SzJZeTN2VFl0eE9SZ1pCa2FibkF4eEFMcDIzcHV5N21CNERYby1WRzMxYm5UZk9BUlRMN2kyR2dOeEE1VjlzMEVFXzN2MDc3VUp0YkhiRVJnZ08zM2lqdHdJ?oc=5",
+      "source": "La Jornada",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Quiénes son los rohinyás, la \"minoría más perseguida del mundo\" por la que Myanmar fue condenado por genocidio - BBC",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 23:57:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OYjlNWVBoVnZEX1dEdlNVTlAyVHYzem4zNHRJbEJGN0RhcDM4cWZqTlk0RUJMaVJsdzlxeUtIY29hRE5WMnFzTGYyUFBYWm80OExLdmd1SjdWT0tQ0gFiQVVfeXFMUFVOQm9rMmpRU203WWVFR0dXWEpEb1VPSkFsNHpxSEhwa3l3NkN5emNtMHg2Y19OQ1BhcmhUcnFxZjdabjJEWXhoWVFYeDhhNlNlUmd1elB4SHZQWFRPcWRsVVE?oc=5",
+      "source": "BBC",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Banxico se divide por minutas de política monetaria: Impacta la depreciación sobre inflación - El Financiero",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHhCdE9BcHhWWnVtcVNCTU5zY0poZHdKcVFtcXhHdU91NkFrVXk1T0xDcFlSTGNCT1VwTlZSUkh4RGJBVkprMnpmUUxIWmZnVF9qVlREVzFkRW1pWUlJRDhyemFmbEpwM2o0OUFhUndwRnRmNUk4MHNyWjA3VkJGbndNNmQ1Wm1jY1hiTWZrUHB0Y1RrTm93SHZ2VnpsWnZNZ043OWZnVlFQTlZXUWh5OWJTMlo4QzJYMlNaTlNRdG14Vk51WjVjWEZiUUUwcUNKVVFNSUFZdlJad1BS?oc=5",
+      "source": "El Financiero",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Anthropic superó la prueba de la salida a bolsa. Ahora viene la parte difícil - CNN en Español",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 00:14:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWw5M0YwS2dTTGo1blFMZWJ4OFpIamhROWhXbUdkSVVkeTNFQ3JxcWV3bVgxZUljWmF1WWYxeDVkY0hfaXZ4alNDeENTaTE4YmFVWXFSTWVteXRmXzJBVFRtRHFMNHBjckFyc3FsTV81d2M2NDdrbUhWWDZ3Q2Rtc193?oc=5",
+      "source": "CNN en Español",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Peso mexicano extiende su caída frente al dólar antes de las minutas del Banxico - El Economista",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 15:03:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdEZKb0dMbnpmbENadHFVcjNhZHNTN1VNeG81ZjFvazcwSTVFTlZQQ295RDA0T01rUkFGUlpYb1U3akVPMW1oNmZsUDZtSWZ4SkljdTAzQ2Vla1VVZjlFaWpyWGdyOHhTN2VFXzhaLXVYcEUyV21MUUEtelFnV2F0M0FwTjlHOUtvZ05RbUZkV29HWlBtV2ZZRVlLODhWRFRIZmE4WGlOYUdoaEhkcHV30gG0AUFVX3lxTE1qT3JqYjZJUy1lLXlxRldtX3dEdFF1MFpGOGk3Vl9zOFZJWk9faTlPa0p6aXZoX0tycFUwUlJNT3l0Wk04Y0o2LXluY2M4Z2lwUEQ4eVJvWVBiTWpqSlJOVHN0TDdvckI2LUE1MmV2S3FOa3dIaGFYTWxlRzdDeDVGaGEtb2lSeFFXN2JNUXpqcHk2Umk1OGdSNjktdHpwMlBLZWdnNlRxUjVJRUFaWHJvWXpNWQ?oc=5",
+      "source": "El Economista",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "Jensen Huang acepta testificar ante el Senado de EE.UU. - Yahoo",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Wed, 18 Nov 2026 03:43:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWxxTEdvRGdqNnJ2OTNiZ3pubDI1Q3ItVDVuOXlrckpwSHBSRWxBdzZkby1rcERjMWstZVBEenpLcnEyd0MwYTJ2OXhTVXA0alg3RlBlQkttYnRQMHo1Y1pTb2s3amE2V3pjY0FpZUFfbTcwRnd1S3NRV2JxdTBVRzUyZlg5eTg2NUh3ZDR0cDVkOGJq?oc=5",
+      "source": "Yahoo",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "¿Cómo crear tu foto al estilo GTA 6 en ChatGPT? El prompt perfecto y los pasos para hacerlo GRATIS - TV Azteca",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 13:11:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMmlfUF82SVU3QmVUVzhOVXVTdEl5Y1BvRXBWZUZsN0lRdkxSbmJCS25jNDJXY1hQLWdSUGZBeVExNVJzVGhBT0xwVEtjSlp5bGc1UFRYd3ltUE9qLS1TekV3Ql9xTS1xR3hudEdHdk9ITEdwRjNLdmYwaEdxcnRCdHlaU2s4X3cwNkpKelF2RDFBWDZ5d3FNTUJjM21PQ3pXOTgxR1Ytd1l6WThXRWpya1RoYjJoSW1lT1VrMHZXWmdOLVRVM2xjS3luLWtPMnFZYTFDVjhza01sck9jdlltVVlQQmk2Y3BBUjNWb2xvYWR2UQ?oc=5",
+      "source": "TV Azteca",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "No, GTA VI no ha superado a Zelda: Ocarina of Time como el juego mejor valorado de la historia - Nintendúo",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 15:15:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW0xS2Nmck9Ia2RfZVBkRUZfNWx4dF9mVkZPYU4zekV0TUg4WHhmUmE4LUY0X0Z5VmhpWFE4WEJJM3FmZEx4VzVwbVdsdEpHaWlGOUN4ZDl0RFdZUXBtXzBBd0JuenVJa2JJYmgxRFRHN3VJRUtsM3dRLTRJc0txUlJ2QUJ5S1B2?oc=5",
+      "source": "Nintendúo",
+      "evidence_count": 1,
+      "country": "MX"
+    },
+    {
+      "title": "bali",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:30:00 -0800",
+      "url": "https://indonesiaexpat.id/business-property/the-anvaya-beach-resort-bali-redefines-luxury-hospitality-with-indigenous-elegance-and-modern-sophistication/",
+      "source": "Indonesia Expat",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "catarina furtado",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.cmjornal.pt/vidas/detalhe/acusada-de-ser-machista-rita-matias-responde-a-letra-quem-e-a-catarina-furtado-na-fila-do-pao",
+      "source": "Correio da Manhã",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "rockstar gta vi",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+      "source": "The Guardian",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "cimeira",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:00:00 -0800",
+      "url": "https://www.publico.pt/2026/11/20/mundo/noticia/apos-cimeira-china-trump-garantiu-europeus-putin-quer-acabar-guerra-ucrania-2195662",
+      "source": "Público",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "gabriel felix",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/20/influenciadora-xsbel-anuncia-morte-do-companheiro-gabriel-felix.ghtml",
+      "source": "G1",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "spacex",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
+      "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "investimento",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 05:00:00 -0800",
+      "url": "https://expresso.pt/economia/2026-11-19-investimento-e-industrializacao-chegou-a-hora-da-peninsula-de-setubal-2895f942",
+      "source": "Expresso",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "sargento",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 05:00:00 -0800",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/19/sargento-da-pm-e-personal-trainer-morre-apos-acidente-de-moto-com-carro-em-tres-lagoas-aos-44-anos.ghtml",
+      "source": "G1",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "alan varela",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 04:50:00 -0800",
+      "url": "https://www.jn.pt/desporto/artigo/alan-varela-pode-sair-do-f-c-porto-em-janeiro/18150289",
+      "source": "Jornal de Notícias",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "iva zero",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 04:40:00 -0800",
+      "url": "https://www.publico.pt/2026/11/20/politica/noticia/partidos-voltam-debater-oe2027-apos-vitorias-ps-iva-zero-irs-rendas-2195660",
+      "source": "Público",
+      "evidence_count": 3,
+      "country": "PT"
+    },
+    {
+      "title": "PS e Chega aprovam IVA Zero. Benefícios fiscais das rendas moderadas caem - ECO",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 11:09:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkdBUG5ocGpTTlY0VTFJdV9rZUpIekVXYmY4NWQ3X290dmJnMmZlRktvZG1DbVE4QzMzXzFmZk5Gb05DN3hwdlktQjJ6WTR2bFFGTmdmWGgzVzhkcDBjdy11MllDVlVMZWM0NGpGejFGbjZfblV1VjZVTU9Ic01SVkdjSmlIM1lVX0JscldpeVhxMVZGdFdyenBnWllFSXRLMUlnaGZUcw?oc=5",
+      "source": "ECO",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Montenegro acusa PS e Chega de brincarem com o país na votação do Orçamento - Jornal de Notícias",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:56:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVBiNzhlOGNWTUhHV3NKTUQwMTlQYy15OG90Sk9Zd3ZZbmlPU0dvcTRGblJ5YUU0SXpuUkk3TFpDVENwc01IZ3hsQkJyOHQ3RFp4UFBKYjd4NnFWQmotV0pQYWJvbHBQckxsV2N1SnVvVWx4N0pJWFBqbWN5dGQ0Rl9LdUVNNXpMSHVnSlV1U0hSdDZ6Y01IYkM0YzM5dGxueUZwRTFuT1VZUGZodzNlcGZ4blDSAaQBQVVfeXFMT3JUZGN5azJGS2tOWFRoc3FkZGVBWklHQkZXVVNBSFlzNE5PWWt2eVNCQlFJa1V0UkJ2bEZvTC1NM0dtYUVhSDJERTVIekZxYzhTT3VSSGdRTlRITEtYTEtlSEd5WTN5SDJSdWg3VE5xeVZMVWZ4OFF6d2dBWXh6bzZsMmpWRzU4MWZCdkNZOElSNS12ZHVsZy1EcWlkUTAwVlZaZk4?oc=5",
+      "source": "Jornal de Notícias",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Greve na função pública fecha escolas e teve 75% de adesão dos médicos - Público",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:02:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMlN2XzhLSFZJdjFiTnA4WEdCa0ZjbVl3cUpHM1JkbjI4LTB3MndPVUZNVFM0VHRibHlVZlpOTDcwQTZwVmd2UjBRLXBnSkg4U0dpVFV5OXlXeXFLTU5SMXdNUUsxTWV2RDg1dTZVdTdleTk5cmktaTFGQmVRQU1qVi02bnNQRFEzZlFCWXNZZzE4al92dzQyc3Q3YkdxRkVxZGpoTXV6d3dqVnBpekhBSlljUXhEVHVDU0NNNzY5ek9qeU1adUE?oc=5",
+      "source": "Público",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Governo dramatiza mexidas nas pensões e renova apelos à oposição para evitar défice - Jornal de Negócios",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 19:26:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGo0bkdSUlExNXlsWDhZRkJ1d1BSUzRuajBxS1ozTV9uUkNfSHRHc3g1NHR0bm9LV21OVW1vVTZVQ0JEWnV2WU5KZHEtOUpaTUNIMllrZ3Q2Y0xmWXZCakgyd3ZZNl9LY0w4b0J6VFJKQXBPM3JkR1pha2dXbnRhZUZROWpXdEtYakJuMDZubnVHTmpDWmZjbmZoUGlEbzlIQy1NOU1jbHdSY0NjdmNkLVRFbHMxM0xpQ1BXalp6VFFEeFIzeEtwLW1Hai05ZW1PUUNKNWtEMUU5NGRfbnlVYndjazQ?oc=5",
+      "source": "Jornal de Negócios",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Especialista da PJ detido por suspeita de desviar mais de 200 armas e vendê-las no mercado negro - Jornal de Notícias",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 09:54:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQmREZGFDMGg4ZURYT1ZJWkZDTm1RWThGYnBxOUVNZEFmT1Q5M0ZkeFJOdlVnTXVyNnpuTkZ2NGY3V2V4RlZCcXNla2s0UTNDQU9jVWNjOFFNb1lwU0pueFpvT2s1MGprNHpSblRtcU9peDdlR2NaRTNCYW41UnFtdmRQOW5Ia2dpbmx4elFQVlNVc3RSU2FVczVFdmRJdzRCR2JjaDBjYVRqemZ4VUtYZk9yQndyYWhmM01JMHBtX2dYLWZQTFpUbERCcXVqZmU0dVdlVQ?oc=5",
+      "source": "Jornal de Notícias",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Oito distritos do continente sob aviso laranja no sábado devido à chuva - RTP",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 09:18:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWnFNX1FjUzY3X0VJNWhQNWRzaU43S2xqOEdvX2lyaVhCVXNMMkZ4U3ZBRXQ0R3BYVjVXeVFCOWJYbzNfUEJZcE5hSnpHOHk0UjRIb2RBM0xVVzBqZVZRZjhLb1QtUjRrMnFRSjNSeGNnWjhENlpqMTZOZHZJbVhFZ2t5a3lJZHkxZ2lIeElLcm9hdTNNYWZqcldfRTVpZlp4SWxna1A4cDNPXzhSTGFWcGtKNA?oc=5",
+      "source": "RTP",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Ventura vai indicar listas aos órgãos do Chega. Bruno Nunes desiste de candidatura à Jurisdição - Observador",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 23:16:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWjdwU24yMGZ3c00wV0hfd1hybzNUOURfRUdKZlQyS0pMTkxtUE1CR0lKX09TY3NMNWdlZngxTjhPNXRqSVBDQ2hMTGZVcDBuZmZMY0JVRTJmUnBuRm81WmR5NTI2c3FBQWRmaDJRZ0RmNjROZzNQZGlxUTA4S3FOM0w5OG5EX1dxbUtWY1ZMS1BDejNiRnVUVjhnOWpqS0hKNFo2dllFU0dMdHh0SjRLTW5PU1FhN2JTZVpDQjNfMjU0R21ta0Rj?oc=5",
+      "source": "Observador",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Elevador da Glória: Moedas diz que \"não tinha que estar informado\" e exige demissão de Alexandra Leitão - Jornal de Negócios",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 22:52:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN2ZFVVBUTWlXNllHdVIxX0RFR2hPMmdHVi13NmpGWFJxOV9uQ09JTXp6NkRsSmhZOUp4UlRYdWJseDRabzkwZ2VzajFjTjIyTlZGQzNqSUZia2lWNWdCU3h0OFFzcFl3N3lfUGMwWEpqUWtDYWZHTmR2VTdUT0oyTzJHd3UzajNzUUpYcU5Ba0RmZHh1a09Dem1SNDd5TkRhbWw0MGd3UE9Cb0tCTVlLeEVOOTFPV0h5WkloVnc1eDlyVXhUeGR6ZGlhM1ZyS2RmZUlFVEVKeFBnQ1VyRUc4YXVPMNIB3gFBVV95cUxNZVFUZTZCaFg5b3Bvc3g0aHFEd2N1eTZCSEp0R0Y3bEptMHRsakZlNkFweWkwWjZrU28zdUJ6eXZfZjFQZWV1NG10UTJNNjI3S19Ua0U0RjlpZWczLUtiT3NqUGh0c2JkeDh2b1BuT2EwV0ZZanR5VU51dzFtVUNVRi1nR2toMWRxRkdqcFZlT3NMcElucU5FbldZVnY1dnppTHhKWEhjUHk1Y3ZLM2MzMVkxWDJhQ29hYVlNY0hnUjUwQVYtZ0ItMVY1YXh4ZXdwd19XV2EwTzhtajZOaHc?oc=5",
+      "source": "Jornal de Negócios",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Provedoria de Justiça diz que houve \"utilização generalizada do bastão\" na Acampada de Lisboa - SIC Notícias",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 12:38:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNenRCWlQwU3NNUkVkazJ4M2VkWXVaVzRsWWZia0VFeFlpcWdINERTM3lRT3BPYTI1WjE1Mmc4N3pYVHphX1dzTjZYdjdBV0czZ3o4REp5NDY1N1JQSkRCZDR2TFc1NTBLSTNVQWg1R2pqbFVwSkk2ZWtQbExRQ3lIYTU5ZTctLXVhUTNqM3V0R2lINTlGZlFjTGltQTJmeGFKeUZ3UTNRUG9CMVF0QmJVdktaUXp1RkpxSTNSUW5YUldlNEZSaUZ1ZlNneDlfOVdteU1WbUFmeTlsOW9VV0E?oc=5",
+      "source": "SIC Notícias",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Grande entrevista a Isaltino Morais: “Se Portugal fosse como Oeiras, éramos a Noruega ou a Suécia” - Expresso",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Wed, 18 Nov 2026 07:10:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGpnN0JxVWZ2RklndmxDZmFnZHlPR3NRYi1BNVlDSERZdjJjVXJpZHhLYWsyaEV2X01Kd1ptV1NteG5NVlp1UnNudEhYUXZsUzdLOEFfS3Q2UXJ1dFFYcGJFc1N3WG05VzVEVXZtUjlIRDZrVlR3V0EwSldOaDRpRDgwTmMxQ2JJRHltVUJpN1BFdTBOT0MxdEt3bHFJWF9PVW5OUVFJcmNEWGtZQzZ3ZkdEZnp4MjdteTRHeklfUXNHV3hydEU5amJsSFo3RTZ4WFFKM0RxMWJuX1U?oc=5",
+      "source": "Expresso",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Após cimeira na China, Trump disse aos europeus que Putin quer mesmo “acabar com a guerra” na Ucrânia - Público",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 13:02:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ201azVkRnV3WjhTQUZxNnlLUzd0LWdqc3dUQWs4VHJJMGF0eWFJVzJkUHI0U2FQRkNIVFJ0SFJzakhrWHlnb3ItRGJZREwwMUxUSWtvd1NFV0Q0VjN5dDBLcFB4STZ0d0lNNHNGUHlLNXNXZ0lqTUFzTk9IQWJfV2lONTVqS3lSQUZDQS1KS0hleG42MlpSc09yWklLOTV0ZUF1S2xPVjROMVpGUUYySk9TckVQREhjS2FyNzRyTmpiemVFNm0wa0RzZw?oc=5",
+      "source": "Público",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Príncipio do fim do Brexit? Já há acordo entre UE e Burnham - Observador",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 13:42:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdGxmUUJ1YnhjdTB1T2d0aVE5cUs1VVA3ckI2Rmxud0RMY0x5OWR1R0pJNTFsaWhIT2VPbWFhXzlkN3N1SE5wN0ZwRG5kbjRNM0hzRWVCTWNLZ0NWNHVYNDdJeEVDR2ZBS0piME0yLUJyTDhCSXJtcWdsQURFMk9BNlNHd285UzVBNEJiT1U2blZLWkk0bmJxaEozTUdSc2RXSGFVREdPYnZyLW1yblFJVmJFRkY1cG41RGt3Sll3?oc=5",
+      "source": "Observador",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "“Espanha merece um primeiro-ministro decente, e ele não o é”: Feijóo entra ao ataque no debate decisivo, em que Sánchez pediu desculpa - Expresso",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 07:09:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYXlfQWdJZkZfTDN3LXlnM2N0ZVM4czBkUTFHcVhBc0dtek9CdnIzNURGMHlsZGhYZVpuWjNiS012NXFsQ0tJVjZweUEyU0JxRnpKRDB6Wm5zQkFYVzA4SENBakhSNWl4RmJSX01aRVJoWVdrY1p3LXRySFNQVE5uWWxoUlJDQjNvc1lob0dEb08tYW9qZEVvVTM0bFhYbVpLTmllRVJRdThIRDVad0xka3hNLV95WWdXWDFOTlVQbVVDZWlaSVJUWDRyMVZiUFlScVEwc1JPSWxpTkwtNU9HYnlkRzNETFY2Zi1fc2lWc1F1RDhvVTd1R01DaEswT3ZxT0xYdlFDYUc?oc=5",
+      "source": "Expresso",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Após ataque à Ponte da Crimeia, forças armadas ucranianas felicitam Portugal \"ponte mais longa da Europa\" - Euronews.com",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 12:30:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDFobjVUX19xd0tnZjVUUGZlREhjUjY1cXJKODVJems1V0VxamV1eG5VTGFvNGlRLXhIcHdyQ28yZlF2T21Na0U2Q2QwT1FhYjlSdXVuTzh6X0FSdUxiSkdIejBFQXVzMlNmcHV5QU12eEo1VTk0Rlg1TVRxR0dTQkRncE95NkFueV93QUl2UG5nTnl5dVEtUWFhSHI1WmYxUkRtSFBPRlhnOGtUc0tCN2NBeHFqd21fMnRNWC1IdUV2dDQ?oc=5",
+      "source": "Euronews.com",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Vem aí mais uma descida significativa no preço da gasolina e do gasóleo - SIC Notícias",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 09:21:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlFuWkR2Y09ITGpYR28ya3A5eWJzeTlENzU5dG1VQUJGRXpTSkFiWkVia1NCTlVKQy1oRGViUU1QQkxwd0N6YkgyV081S0xwc3lfVHJyWmJMdkJ1a1lGb1V1Ti1pV1BvSEdDdGwzRFBQYkExSHNmQ2hYLTBDaExnazIxYmhqSVZFc3JUdWdMOGx5Nk95dkhSdnRGM1RaUmJGbGx6V19nYTdCeWxsWXNPYTFqNHNxR2xoQUJLazBVS0pYM1V4dlBwaFJRRk94eDNmWG5j?oc=5",
+      "source": "SIC Notícias",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Wall Street no vermelho apesar de estreia sólida da Anthropic em bolsa. Tecnológica disparou 17% - Jornal de Negócios",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 21:13:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0N3alVNYXd1Q2hhSC1ERDJmUDVWeGJjRndhd2dOUS1pZkJqMFQyaVkyNEpLX1BZWjhJTGJfMWtKVUJZakdiY09ael9QQ0NkLWg0V2E4VTZGclloUzdBNWRpSTNlTFQ0dk83dmJnMExXa1I3aVozT3YzTVJsc1JTMDFVVTJrOEY4VGdaekRaSVVoN3p0bzRFNVhmWGhqVkVYN2d6TUVCREhDVGE2N0xNNU1DT2RXdFBhb215MmtOU1BWZUFzaWJxR0pzbXRLNDRzTWtqNEx6ZlV1dw?oc=5",
+      "source": "Jornal de Negócios",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Função Pública: em véspera de greve, Governo avança com aumento de 30 cêntimos no subsídio de refeição - Expresso",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 17:46:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMkpoZ3F5SDZzNE05eHpxQWh1RVlZYVlMdnM0TmRjY2pRSUZVUWhNa1RVUXFVVjBINklzRlFaUklTWDVyb0poQW50QkZubU5LQWFlU2d4Zzh6aXdiN25qNlBLbGJ5WDNDbWdwNkRiYjFjUWJ5SlRab0tScEpneW9PZ2hUMHJiMUNJMEdsaFctT2FyakdXdFg2S24zRGFTY0poV2Z2dEdZLWEwYThxMGFoQVlxaXY1RjJ1c2l4cUxOV0VpbXJGZU4xVC1OU05rMmR4YjJNU0RzZk83OEZpNDdrdGhjUQ?oc=5",
+      "source": "Expresso",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "IMT alvo de ciberataques suspende serviços por precaução - RTP",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 22:07:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjJneDJlZjFlSEtiUFlsdklVVmZENUJPNGk0Vmk2YmhkMGxsM095a0plSTVrTVF0VkYyb3RUcWQzWmd1NEJMME1uRDZ5MUxidjlMcWN5SXA4TDVzYjk2WHRNbENlSWJGUVNEdEpnSjYtNDNfYVlkcjhITG9rMFhUb3ZPY01jRnk0MXJnYW54YWFvdGdtcE95dGdOZWxmdkE?oc=5",
+      "source": "RTP",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "A RTP Antena 3 dá conta do fenómeno “Grand Theft Auto VI” - RTP Antena 3",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:47:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWRxWDIxMnFqMjFPRnNqZU00QTByQnFRM0JRLU5IWTF1b1hBS2dJLVJVSlNSNlhjUXYtdU9NOEpIVWtpaVpEZmJobE40WHZHb2tiR0ttWUIweG9nOGlvaHJFQkx4bVJsV1UwSERBZ0g2ZVFCMEdKUU1KT1FiRm9NVkNpQ05CZkROX0pOVk9GZF9lSTRrbmc?oc=5",
+      "source": "RTP Antena 3",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "Batatas cultivadas em solo lunar abrem caminho à agricultura na Lua - Plataforma Media",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:33:01 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXVtNU1melh4QmlzbjRwYjN4QXZTZDRLMXJpNUJBVVp0cnlIN09QeVZJZDRNYmVzZzNyYVpuc1pqTzFVSy1uUHNseElkS1ZhR1E4bEZuSW9lMHppeGVraURfNUk3ajJva0VTYTk5QUM5cXZoZEpCbmdZLXNpM1VIYnRjTkFTbjREbUR6NHdMRHdLX3ZpNDRVbzNOTkRnWXVXTjBlZEpONVZTckg4QXFCNg?oc=5",
+      "source": "Plataforma Media",
+      "evidence_count": 1,
+      "country": "PT"
+    },
+    {
+      "title": "nitto atp finals 2026",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:30:00 -0800",
+      "url": "https://www.atptour.com/en/video/highlights-harrisonskupski-edge-granollerszeballos-in-winorgohome-turin-tussle-nitto-atp-finals-2026",
+      "source": "ATP Tour",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "encendido luces navidad madrid 2026",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:30:00 -0800",
+      "url": "https://www.elmundo.es/madrid/2026/11/20/6b0036c1e9cf4ad5138b4587.html",
+      "source": "El Mundo",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "mateo kovacic",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:20:00 -0800",
+      "url": "https://as.com/futbol/primera/kovacic-se-pone-a-tiro-f202611-n/",
+      "source": "Diario AS",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "entierro",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.vietnam.vn/es/truy-dieu-va-an-tang-hai-cot-liet-si-nguyen-van-don-tai-nghia-trang-liet-si-thanh-son",
+      "source": "Vietnam.vn",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "los juegos del hambre",
+      "kind": "pesquisa",
+      "traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.theatlantic.com/culture/2026/11/hunger-games-sunrise-on-the-reaping-movie-review/689509/",
+      "source": "The Atlantic",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "sevilla betis",
+      "kind": "pesquisa",
+      "traffic": "100+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/sanchez-martinez-arbitro-gran-derbi-sevilla-betis-20261120141625-nts.html",
+      "source": "ABC",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "thibaut courtois",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:00:00 -0800",
+      "url": "https://elpais.com/deportes/futbol/2026-11-20/el-real-madrid-amplia-el-contrato-de-thibaut-courtois-hasta-2028.html",
+      "source": "EL PAÍS",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "grand theft auto",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 06:00:00 -0800",
+      "url": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
+      "source": "BBC",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "judit mascó",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:00:00 -0800",
+      "url": "https://www.elle.com/es/star-style/a74464140/judit-masco-mocasines-tacon-sensato-cenas-navidad/",
+      "source": "ELLE",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "carlos alcaraz",
+      "kind": "pesquisa",
+      "traffic": "20000+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://www.elmundo.es/deportes/tenis/2026/11/20/6b0055b0e9cf4a522f8b45a3.html",
+      "source": "El Mundo",
+      "evidence_count": 3,
+      "country": "ES"
+    },
+    {
+      "title": "El 45% ve a Feijóo vencedor en el cara a cara contra Pedro Sánchez pero el voto apenas se mueve - elDiario.es",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 08:05:34 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2lBWXZDaFFaUUFGSzFWaGJ6NC1zRmFXdVJrcHRTWnM5T0pIa0dUeXdWQ0lWYnlkNXRCYzBuVXBOd1J3SnlsRk9kLU5PMUNsWktkTTZGVGptbnZPMXpzRUR6UVhXdmVVWmxacVVXcGZYd0pDeXVUdi1sY0xfaS1HYVdrbHhGQTN5cmhnRDVZcUFyVWhHUnk3cjBudDBzejFwaV9wdnRYbHVNLWNhLV9RN1R3?oc=5",
+      "source": "elDiario.es",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos - www.miteco.gob.es",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 14:11:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemEzWWY2eS1UYXRZUWRHSjAxZGs5cmdzYXpWRnAxWDFYREs2cFVXRnVlcnNpN19tSmRaZkhxVXFPRXNMczhaNVdwUHFKM1hjY3BOb1dUbHJEbUMxU0l3SG1MTzNuZFhGeE5wQUp0RUFDYnNBZ20tSTRSb1kyOHhKUXFrVFlqNC02QzBTM3RacHpNalpBeW52S2V2eDdaTDBnWWF2aUt2Z2QzdzJvWnVzSHJUeUozTFdpdWRNUmZFT0MwZkthQTEzNjdvTjJkZEZUeThr?oc=5",
+      "source": "www.miteco.gob.es",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Javier Alfonso Cendón | Candidato del PSOE al Congreso por León: «León se juega seguir avanzando o retroceder como con Rajoy» - Leonoticias",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 07:03:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlZIeEZwaFlwbmR1MnNmWWR2ZWVWWWhkdV9mNng2YU0zSHJlZmFPZGxudGRJQk9YTEdFd3ctaHR1Y1d0OW1NZVk2SlBxSU5qQVRNMGNjbkxRRC1ZcUJ6ZW53V3VVbmZjWlZFUktoZDVnQlpFTVFXQkNScm1WRGp1ZmtOd2FNc0g3OWRJTGdwdU0yVnpmemxUTy12ZTBGbFN6QWZHOGVBRkMwUkpzUnJRSUI4M2xYNlXSAbwBQVVfeXFMTmd1aWctU0p3Vm1iNHJwOHFReVpKeF84VEJNUVJ2bGl4bzFzSjBEMEwwNGJBaUVQMHhTaXpOby12ZHMydmxCYlRJd1BTam41UE5tM0NuV1JoU0NPZWRpTkRnT3hZSnRJbWQ0NzdxY19YaVdvX0dYLU1pMXh1Zk8zbWtRbUtabGhSelg3VmgxMGFNcUd3YnlWLXRDM1l1Y2FZRzBvYlJnU1UxYVl1NGVSUzRUX3Z1YlQtc3hVWUo?oc=5",
+      "source": "Leonoticias",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Los maquinistas desconvocan la huelga del 23 de noviembre tras un acuerdo con el Gobierno - The Objective",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 06:06:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0tKQ0NCaGFyR0hUYzNiRUI0VHlRNnh0TmZvOTFxWEs5a3NrVV9Eb0ZrLXZHcmZIbWxQbXFUX0l4Z2hjRlRobFYzN2d3NFp3UEZXYjQ2N3VFdjZFVjVBYVpfeW0zSGwtWDNHVlFHb1BULUVlaFczTE1ieXdkN2RWTE9ONzFqbnF2dzVIRtIBkgFBVV95cUxOZmFvbFlWRU5VWmI3OGtFT3VCc1VYcGJpS2Y2V0RPUFc3WUVnZ3ZLb0lvV0Y5c1V4OWdmbTZmTFEySnktcjY1Z0ZhazJsQnFDNWZfVmVzWUVMaU9zTkZKYWpLbXNVMUtzbkpCZVozUFIwbDVoT1NpNE5FXzFxVnJEVWtZekpEY0YxcUU4eWdzU0FYZw?oc=5",
+      "source": "The Objective",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Merz: “Tenemos una idea clara de lo que es la paz” - deutschland.de",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 09:30:20 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYVBLdG56NGVhOFFEZHQ2SDM4dGxIWVA0QXlaMWVIR25UQWVWUmZxRmtOSm0yUFNMaTN2c0lKY2puVlNqaEFrXzNFVWxoUi1IZkFVUHpTZEdSYVptMEZrcmpuMkM0bDROcUUyaUlpYV9ITzI1ajJUTlJuX3VjTHZCbEZ5MmNlSGJ0M2c?oc=5",
+      "source": "deutschland.de",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Pedro Rodríguez analiza la reunión entre EEUU, China y Rusia: \"El único que pincha y corta en Xi Jinping\" - LaSexta",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 16:04:34 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYW55WXhGNWVTWWFBdk92cDBfQW42NXdyVTU0M1U0QXI3Nm44S3FVTk4zbjZETHRfY1A3aVB3MnhvbDRFaDNITW8wa3JfUXRPeUFEemRRWWdUTDJaTi1XWVRzYjUyMUlHYWp2SXlDei1CQlM0QWFlRWw2c1BWc1BJRElHQVdUX2ZaSm1SanFMQjlvZC1JYkIyTFRvbmI0SG9USGxza0VXQ3lMQ0lxcHlIVHd5YzBtMF9sMVlubGVGUEJtTjBxNXFjRHNQZm5SaXVZT0NvVGlsU3JMOUs1NjhSZEpvT1BNUXpkVUo3cWJGYkQ5aXU2bXhZ0gH3AUFVX3lxTE9uWXh6dzk2TkZkOXBRTUdSUlNhbUJTazE2Ql92N1JIR0ItV1VXWDFIbVZ5bHBKb3JpdjdBQURXMWJKenFMQjlvVjhOcnZOdDdKVUpnSERaamZLOEdHVkExdjdrYnprbk5pc3dmZGl6TFV3ZHZ2UE4zcHBET0lKU2p5RldqaHk0YkJsWkNrRGtuQkREc0N0SnFYMm81TVJSTzhNeFFwSWVkbWl3QXpWa0ZUazY1VDF4NU41T1M4RERvaWZzZ2dheEE4WUhyY05xU2dWTVpSZXBYNTJ5Y2NORUNycXA0WEF6bmFXRmVVSGNRVk12cDF5VFk?oc=5",
+      "source": "LaSexta",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Ayuso admite que la Comunidad de Madrid no ha sabido explicar la compra del ático de Chamberí de 6,3 millones - RTVE.es",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 13:39:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQamxGeGY4cmZvVjZ6cXlJb3BKeDRVWG1qMmJiUE5kUkYtcUdVQ3FCeS1vWm1xVjJUT01EQnFyVDBpX1FWeENjRXpKb3VvTnpvRlRLcjVDS0tnTktUZENaZW0zNVBTZGdsLVRWXzBiYkRJejFkN2Z2VHNHQkk2M1gyYWNKeDVPVVlsN3lLY1U2WWc1THBGWldZcFJtRUJadw?oc=5",
+      "source": "RTVE.es",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "La Junta Electoral Central amplía el plazo límite para depositar el voto por correo del 29N - Onda Cero",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 09:58:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb2puYkp2dmFranFnRHJ6TG5nY2VmcmdJQ2h2WlpsMHc5bjNFakFJb25jalZwRnh0OGNpRWN4VVk5TGJ5Ui1TZWl0dktmdU9IazRMR1A4cU4zQ1NjOHJUWW5DNmFyWFhmdkN1dTZhSEdkTktyNFRReXBwNnQwWDlHd2lmd0NXUlRZZnBORlNtVW9uYXV4TDIwLXQtZjJQWDl1ZHN6UDJXYkRIdUM5dENRUmVRN0E2aWh1bnNBYXQ3RkF1NEgyaHlDSENqTGlETGd0Ni1yYldNNk14dUE1X1pEbTdHQ0Nha0XSAecBQVVfeXFMTjN3bkN3VC1pYTZ2RjNMX3psS0MtTGxPMllkTEpKaVUydGNtbjc5SkJsYlJ1dlp0WVRObk41NnYyaWUwY3k1SExacTZ2ZnJrWEFZQ3dBbGd5cnhVQ2VzWDdPLUd3MmFtVmJMNnNLcmlBb2tPaTJqVWJweDBYYVJ2SmVxOXZhYnpEVWdDSlQ4OThXeHhOS0FfVWsxejV2eUw4Mk9Kb3ZRVURYMXltVUxiN1ZtMmpBZ1NTRjAwU2pkdEFuU2R3RlJWU3R3Q3JyZU5kQ0hOTXRXTGppZk82SGlBZk5TTzFUcjNN?oc=5",
+      "source": "Onda Cero",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Madrid despliega a 330 policías para el encendido de las luces de Navidad este sábado - La Vanguardia",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:43:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjFSVGxIdHdEQlE5Vmk0SWZjYUxrSEhRbW5yRDRsYllMZl9Bc2pvY2plV2Q0QkNWb0l5NlhteW9kT2pIT1VMSVg1cGlTN1Vha21EbEJmbHFJRko4ODAyb0REaERXb003RzczenV2YXpGS1ItOEtiZU9ZclpOTzlGNGlDLWtjUW9iby0zZFpVaTNsYzRYdC10SkdZVXdveGJidEhV0gGoAUFVX3lxTE5XZmF1Q2c4UXEwTG5DdTMwMThIUXRXZ3NXZ21vSm5DZ2w3ZnJLaWVScEhZZ3VpS2JSVnBuYmo0Y0hDMVAyT2ExaEo5cHRNMHFPSHJ0QzFVUTFET1dTa2FwY1dQZE8wQWFVVkdFTWcwMWpqbGpIOUd1dDlkem5hS1YxWGJlaHRyRTRIUHQ2MFFCcGUtcXN5OUZwRy1TRUNXZjBBSS1EcTA4UA?oc=5",
+      "source": "La Vanguardia",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Los obispos animan a «votar en conciencia» el 29N y se remiten a las palabras de León XIV - EFE - Agencia de noticias",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:53:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDYnRsNmpRMmwwcnlZLUJ5STdXNC0ybmcyc0RXZzRmdVl5aGxZOTZMekh2bTRfZGNJbXYxelhaYzhDQTVlWGc3cG5uemtoSWUwMjF5YmluSkxlaGNEOExadmxRQzlBVXpPeWZRV3l1eFJpZmttNVNrZVJrdGF6QQ?oc=5",
+      "source": "EFE - Agencia de noticias",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Bruselas acoge una cumbre para relanzar las relaciones entre la UE y Reino Unido - France 24",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:24:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdHpTMmhoR1MzU05YaHNpVlROUFdKT1llQW9VUEZocWJSNWxseEU3M2NaVTNKNkVXUmFBOXFLdnNLTG1QekpZX0lUMzRtcWdxTDlwVHlEaGd2YUVLeW82R2V4bHRnQ1FpTmltQWlJdExoWkN0WWx3anA0VG5XQ3ppMTdUTVhJU2s2bmJjcjVfZ2VOeTZ5bFVlWThveFpKVmRBRDdVOHdHanl0bHU2QTRDS2ZpZ2tCSU5KLU4zd0k2TEk0VzllVEM0LS1EX01lZw?oc=5",
+      "source": "France 24",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Dos misiles y un dron ruso caen en Polonia – Varsovia pide más fuerzas a la OTAN - DW.com",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:00:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0UyUFJfNkdzU2Fuck1YaDFhOG13d2lVMjVSQm5aeU45cDFvcWk4bDJ2NHZNYXpZYm9VMDR6V1NOUDUzSlVSVU1Pdi1FTG9pdkNiRVl1R1ZsajhqYjl2TWszQ1ZCeHlXQnJHSUpablRMTlhYYmJOOVprRHRlQzFaanU2UHhuMUR4dUdNQ05jOUc3dm9IMXlFaU1nY3fSAZwBQVVfeXFMTURXOHRIaUpJeGhnREk4S1BIaXIzQnlmMkFkTndFSG5RWE1CTFlPcHdpNy1kTDBDSGdaeV9RSHk5aXROeWI5UFc3b2RXYzZSaHY5TGRqblJtdmVGcHNWOTVhZ1lQV0NXdnA0Y1JSVGZPd2tJV2t5MmNwSHJQLXNEcTU1cDliMElRRFFxbTBDMHo0ZDBpbjN2TUpIMWo5?oc=5",
+      "source": "DW.com",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "El primer ministro de Bélgica recibe el abrazo inesperado de un líder europeo: \"Debe ser ese albanés, siempre aparece por detrás\" - 20 Minutos",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:24:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQ1E5SHBtV3lMdGpQUFR6WC1zbWRNZ2FVTjNVUlhYVkRCVWxkZ0kwQ3JGS2xfRGdFNnVSUDRldEgxNVd6Mk5jNHBNRHVZN3JOTkM2TERhRU1HMTBFcTFBQS11bTBvNkcxS0VIanh6aGdxZnVaWWdQS3hfdk92akplNmVtcnV0QmNXZkVsekc2eUR5alFzdXJDY3pReGNjZmtzTl9jc0REenBYU0ZmRElmcG81c1F0bG9vcUZTNnJxUG1jZjZyci1tQzZPRmZJbEsxeGxINEtHWElRZVZQa1BhbG9pYWhPN3dDRWZRbjdTMWRzTTVmbDc5bjRvUzZjOFd30gGGAkFVX3lxTE5reVlSV3AzTDRfMURNOHNZVGZMLUV3d2ZpY3JGZWtFX0ZhdDRmdzU3RUdJUndhM1FsVFNOcHB1RGxtWmFucEdFWllVTGdtb1NqWlE3NTE2aHlTQWloTThtZS1zcmRLNkpPVDZhemctTmw4UkEyZ1pBZ1FlN1hqYW9pTmdWNXI5WEZKMlZ6dVZYX3N3VUxYZmRSWVZDOEsxaUp1Vnk4REZoTXBaMnJPNFVUQmVyQ1BiQWlOQjI1SVJfUkh0TnlndUpwb09IRkF6aFhhX3YxQ08tYjhZZm5iM25mUlg5YWxuU2hTU3JkM3dIQTlZd3NuWjk2aXhLWTc2M0Z4OHlhX1E?oc=5",
+      "source": "20 Minutos",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "El Gobierno militar de Birmania rechaza la condena por genocidio contra los rohinyá - RTVE.es",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 08:01:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGhqR3ZXVlZ2M1Y2YTY0Zks3MGlJMi1VcWRnYkVpWndMejRtLWpXNXFIVnNzd3JZMGNnRVlZVlBzalRfQ3ZmVnYwaUhNNTFIZ2FNUjFwLXd6WGtPT2VhM3BRZTNvbHdmZ0hJR1hUQkZDQi1QQks0bUxmQkZhYkRYSXVJLXZqWE1Ja21Wb0I1aS15bHhfVU15XzIyby05THhXUmNqc1BKaTFNSW1NOW5VMURlTlk0N2VDZk5uaFYzNnc?oc=5",
+      "source": "RTVE.es",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Los futuros de las acciones estadounidenses caen antes de la apertura, mientras que las acciones de Anthropic descienden un día después de su debut. - Yahoo",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:52:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGZRcVg5MlhGcXY4WE1TTlQ0WmhMOVJnVWpEVjVUakNBUHdjbnZZeUFYQzdjbGdWYXFhLWFyLVE5Y2ZMWmpHOXN1dkV4NFdhaE5uLTNmaDFZeXRRMURiMkFKTWhqZTFYZy1tVmlFTUk1RGNWRFlGR3FiTDVXVmltemVObXNwNWliN0F4cGNsWWE2TVRReXk0MXk2Mjh3VHdv?oc=5",
+      "source": "Yahoo",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "California abre una investigación a Nvidia por la relación de Huang con una presunta espía china - RTVE.es",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 05:15:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUJ6X3FFODBOeEhpRzk1RThGeFhmb0pGQk5oejZOMDNjM3AzQ3YwdlgzN1REN2R3QVZEVGxfOXR5SUpVRV9BSkZUaVFhME5ibmowaEtqOFp5dmRCWTNRZWg4d191dTUwamlNcXZKaVRwRGJBNEF4MDFJY3VkMnNzZWVQSy1tSUcwT1ZMbk1jRzY4UE1ha0J4Nnc5eDFJQjNLRC0yaC1KME1PUXZobGc4Mg?oc=5",
+      "source": "RTVE.es",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "La factura de la IA hunde al Nikkei 225 y al Kospi - XTB.com",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 11:44:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVE1bng3UUU0dU8zb0Vlcl84d0xKSXBJdW9QM3pMU2Z4dmktTlp2dF80Vm1BUTlPTnpHeUU5cUk1M3N5aUtmQm10WmI5d1N4N25hbS0zOXJyU2Jrc3lfMk8tblRpckZkc2Rwd3pCdzRReGJObExwMkN6LXU2TzdwX3hHQ3ZtZGgzZV9kV194QWEtZHM3QVZvdnFRZUYzTFo2ckhXSEUwREh0SHZlaHo2QmJDcm5UU0wtd0E?oc=5",
+      "source": "XTB.com",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Sorteo Bonoloto hoy: Comprobar número del jueves 19 de noviembre de 2026 - Antena 3 Noticias",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 18:00:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS3JqQ2xzX2ZjSWZEQ2xnNUxOX0VLNXhJeDdrT2pXU0hHaTJwRkh1MERlcDh2QXZVQkktZTZWSTB1c0p3V19SR0Ywc29NYk9PRFZJYkpheUh3S0VzSlhtcEVZX3hELWVsam43X0ZCd0RvUG5uX2UyR3k1YnJzcFJKRDcxR0ZYbl9SLWVoMDRoQklRcU1hdmJuN01uUGtoVnd0UUU4dFV4ZkhDYnFfQ3ExZERDT2Rhb2NLLWY2QVBaVzBybm0tT2t6NVBUVnlfRWtKY3BIMG9CSUTSAdgBQVVfeXFMTzZJRTQ2bERBNGg5RzZHcDBsc0gxc2ltQXJGUFk3R0pHd3R4cjJ3Z1dRVUFONEZyUnNQRUNySkJ3TXV2RHV3OURReVhPZWs4b2ljSllGMkJtcGZLUURGeFhqejVlRHl1TG0yVzdTVTNYUnNsbU9uTFVTREtZNTFKWllXdDc3aTBLS0YwWU8zZTZ1WDZSTzNKN2hxblI3R2FtSHozUnk3b1NCaDFxX3VOdDFNTzFDV3lBX0ZkTWFDQjdGTTZVSUNOWDlGX3dIcW1xRTFYQmVJbEYt?oc=5",
+      "source": "Antena 3 Noticias",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "Pedir días libres para jugar a GTA VI: La UVa investiga el fenómeno FOMO - Tribuna de Valladolid.",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:28:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3EwbmdENnNOd3Vnc2FnSGVyb2tqbVQtRVlyRFlZYUh1cnVsd0lDY1BqVC1XRVRJYnJtVHpNd2lSWURtWnZNbnZQVW5nUXZUbGlpaUVNUUxGTHpHc2FDcS1hUlJKQzl6U29fckhoNUJRand2WE5ZaVVSQjRGaTQ5MDRhSEs1b3FoSDJtNmJBcnBsRVNxYkR1MzVFb0JuckNGVzN3NlVhcV82WDJQdDdQZ0cycEt2SnRqZ3RFRGRn?oc=5",
+      "source": "Tribuna de Valladolid.",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "La Voyager 1 alcanza una distancia récord de la Tierra, pero la NASA deja de recibir sus datos - LaSexta",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 11:03:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbHZvOFVBWG8zY2gzbV9tNDhGdUc2R2p1RWx6VEdsWHdrOEt1N1YwbWxYX3publVLNE1OQjd6V2ZsM0gtRVdVT1VjX0NTd3ljaDFoUXJWb25BMkxNTzZlWktJMkZQRFlZaTJRbm1XbzczdHo2ZFhOUnIyOGlFNW9WYW5MUkFmQzB5UWlaYTE3WUpMTklkWFZEbFVYVWZpbVFRSFJ4ZmdMRklhcWxDTndUZk12ZTM4bjJDeDhYQ1RzSlRHeUs3dWU5clhjaWE1WXNHcUtnYzMydjhLWW13OGpxQVRXcHc0NXUzTzhLXzRNVHIwN2JBUFNxZHJVUdIB-wFBVV95cUxNbHZvOFVBWG8zY2gzbV9tNDhGdUc2R2p1RWx6VEdsWHdrOEt1N1YwbWxYX3publVLNE1OQjd6V2ZsM0gtRVdVT1VjX0NTd3ljaDFoUXJWb25BMkxNTzZlWktJMkZQRFlZaTJRbm1XbzczdHo2ZFhOUnIyOGlFNW9WYW5MUkFmQzB5UWlaYTE3WUpMTklkWFZEbFVYVWZpbVFRSFJ4ZmdMRklhcWxDTndUZk12ZTM4bjJDeDhYQ1RzSlRHeUs3dWU5clhjaWE1WXNHcUtnYzMydjhLWW13OGpxQVRXcHc0NXUzTzhLXzRNVHIwN2JBUFNxZHJVUQ?oc=5",
+      "source": "LaSexta",
+      "evidence_count": 1,
+      "country": "ES"
+    },
+    {
+      "title": "russia poland",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:20:00 -0800",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+      "source": "BBC",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "prince harry uk return culture shift",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.telegraph.co.uk/royal-family/2026/11/20/prince-harry-squeezing-american-accents-archie-lilibet/",
+      "source": "The Telegraph",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "sudden stratospheric warming forecast",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.bbc.co.uk/weather/articles/cwdd8dl7830go",
+      "source": "BBC",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "roy coyle",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.belfasttelegraph.co.uk/sport/football/irish-league/irish-league-football-mourns-death-of-legendary-manager-roy-coyle/a/164862453.html",
+      "source": "Belfast Telegraph",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "rikers island",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 06:10:00 -0800",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
+      "source": "The Guardian",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "reinaldo dennes",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
+      "source": "BBC",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "jamie miller christmas song cover",
+      "kind": "pesquisa",
+      "traffic": "200+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pe2jdg08o",
+      "source": "BBC",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "carlos alcaraz",
+      "kind": "pesquisa",
+      "traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
+      "url": "https://www.elmundo.es/deportes/tenis/2026/11/20/6b0055b0e9cf4a522f8b45a3.html",
+      "source": "El Mundo",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "m25 traffic",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
+      "url": "https://www.harwichandmanningtreestandard.co.uk/news/26747803.m25-traffic-live-updates-earlier-qeii-closure/",
+      "source": "Harwich and Manningtree Standard",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "pontins",
+      "kind": "pesquisa",
+      "traffic": "500+",
+      "published": "Fri, 20 Nov 2026 05:20:00 -0800",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
+      "source": "The Guardian",
+      "evidence_count": 3,
+      "country": "GB"
+    },
+    {
+      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live - The Guardian",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 14:31:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjN4RFJFbG9vU0FzdVUtX0xoT05yZUJielgyeEV6QVdKb0hUc1M1ZEZKbm9nOXpWR0FyeVFidW54RnhnVEhqSjRkQTF1REJvN24ta09YNGdhUjRDWVhKOHY2eVo3aklqcHNZRV9NbVBvVjNOMlhpOVRoUGMyV1V6elZOWWtoUkxncnJkTlZNRFpjbWhBYTBkU2JkT2pERHF2ZWpLZk5oUzcwMzBTbTgtalZTbUVxdjA?oc=5",
+      "source": "The Guardian",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Calls for consent law change after Joanne Young rape case - Sky News",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 11:41:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkgySHJJQXk1b1Vkb3BvenBod1ZZRm5BWGpkSWlURW9EOHlwaXZCaGIwLXV1TU1xc19TRTdQWVRjaW1ZbUR3cmV5VDQxNVpyVU9nX0R1YnFYU1Q0YkFrT3BMbXg0NV9UbUZ4NGRwcllqaWRCRFB0SEl5eWF2ZmMtR0k4Q2lpSEZQZWM3NUxuakYwTXVFcWdDaA?oc=5",
+      "source": "Sky News",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Russia unleashes retaliatory barrage on Kyiv bridges - Al Jazeera",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:03:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVTZ2NTYtWVl1UVdWUUEwRXN1LTZTSVUyWTZ3d1VBX2hvLVJWRmxQRmZWenFRcTB2M29aX3ZGTWxteUVpakx3UmgtdzdvUnA1dXVPSnh3T2tXQklCV290V0xGVlU4dHBOaVRPM2I2b2M1U0ViR1U5TmhLSGZTUDFtVzA0RTRHby04UkR1NmhNTWxIdUdZSmVmV2VB0gGfAUFVX3lxTE4yaU5yemNrMVAzTDVYdGtMcFpBZ1BURXZ5U1g2U3R5VlROaUxmdFdvVTVmWGtRaEotQUdndEJQazJSZi12c2xsclh3dHVLLUtud1dmak5HSm5rZVlVaGVRZWVXajNvYURVM0lhYTliYWd5TTBSbVd4RTZweENvMXJ1VUF6V29FVTl3aGhfbWNseE8wX3JPMkkzelVzUENWRQ?oc=5",
+      "source": "Al Jazeera",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "China revels in Xi Jinping’s ‘Yalta 2.0’ moment - Financial Times",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 05:45:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQURUSnpfTGp1ZzF4b0RQZnJTclRHSlE5dktzQm9HSUdwYUhIRURMNlpUNUlnMVV0WExwMkdKTGllR0JTeWpRQUdyQy1PZloyUkVzUGFiZlVNTnhTRWs5YTBFazdFeVk1UWxHemJfa215Vk9Fck1lby14ZGNvREZmTVM1TDY?oc=5",
+      "source": "Financial Times",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal - Financial Times",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 05:01:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2VJZTNNUzNXdEdsUVUzZDZ4OERpNzVSOUxfM2I2ajdtVDlRWHhDdjBCN3B4blRpSl96RTNZaEtHeXVjZzFIOUJFYm42OFNmNmNoa19SSUVudTZKT1gwbFMxZ3Y5c25QYlgzMk1Id1E1RXhONEgyWEN1Z3g0bmoxcEo2VGQ?oc=5",
+      "source": "Financial Times",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk - BBC",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:09:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOMy1DM20xRHlCa2dHcXVjQWZxMWdNSEpzZzI2VDhJeTd5NEN3SWlMYW8zdXVPSTZnVkRtVy1EdHRLSFl3UXhZelNMdnZOMjFQNW1peS1Gd1NOQWdjcnc?oc=5",
+      "source": "BBC",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Finchley teacher misses sentencing for indecent assault on pupils - BBC",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:20:39 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02QzByQVREV3l4OWl6Ql9hM0hrVGRjeW9DVWw5NUtlU0RlZzhfT3JLa2hOY1M5MXZtNmlobHk4QkRXVU1YWHd1SnNOckpOekxQZnl3Q3ZwWkozWTVoaWc?oc=5",
+      "source": "BBC",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Britain carrying out cyber operations against Russia, says top commander - The Telegraph",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:19:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzdsOURBVTY2RHhuNjhNQ0o4emFJaHRYWnMwTFNLSFNOc0dVdjhVMzg5cDNZUlFVaERDSzZpY05wVThHbnFWaWpQRURXbmhCS1dRNE1Rc3Nnb1lFX2Jqb1c2dWYtLTlmNHIzYlBQVzJNZWhNR2VObHdKRUhzcUs2bnMzUlMxT3ZFUGhucV9jbTVWc1F6?oc=5",
+      "source": "The Telegraph",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Maidstone homes evacuated after large sinkhole appears - BBC",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 11:39:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95Q1o0VVR4X1FfM25EaHFldktsdklUaGJ0NnRwdF9JaExhRXNONUdnYzNYT2wtSnVCb1dXYmNHbEFVY0xZWnZIam4zVWlyVXd1bUdFVGY0WVltdnBXcGc?oc=5",
+      "source": "BBC",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Man dies after Smithdown Road crash - Liverpool Echo",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:14:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLXpKWWhmb3plMEx4WjdMQ0YzTXItZE1OZ0xVaGZnMWJFaERSX3NsZm9nd1NfeHMyRGpMUUZQNWhoLWw1NUVxdFZvZGFBanAtWkkzRzNrR3U2VklMNWxOelFaNldMTkhkREdyUkxRNU1jT211Zzh2djMzNHUtdDIxY2Q3MHotVjRfYmpBZjlYOGZGV2Yy0gGaAUFVX3lxTE1IbXdwbFZ4MkRvUm9ra1A3bDZoa0F4T1dBai1uaUJmLUt2Y24zbXN1NXg4MXZIRDdmVDNjN053QUszOG96aURVS0hvaDZacHpYSThyOG5aUWN3N3RKai1TdVhLQ2FJRnNsWUJrVk1HdkZwVkhReFR4YkxKRXNsemNkTTIxb0FxN2sxdzZyUHJNeW9CM0RmSEhfRmc?oc=5",
+      "source": "Liverpool Echo",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "US death row inmate takes over an hour to die during lethal injection - Sky News",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:55:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRksxQU5kUlhDMHowd1BqVUYwQklSSHJjVm8waWNTMWFiTjZ4cVpMV2pDUjRHeDhqcHJUWVMybFYxU29rYWtBRzd6ak1DblJNdlZ6UjRTYkM3QXdiV2lXaWY5eUQ2YjVwNWVHcDJWZVJ0eXA2cFVMYjFWWjVUTkRnTWUzYzJsZ1BtUGEzckkwamN3bWsxc2tZQ05HUFEzUGsyNmxUbzdzTE4?oc=5",
+      "source": "Sky News",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Trump ‘tells Europe to defund Ukraine’ hours after hailing his ‘friend’ Putin at historic summit - The Independent",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:13:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFhuX2dpNGowYXBwY1hrZ0FQNWFMZDhXMnBwajc0T0czdThveXFvX1pUd2ZzcWNDNUdwRmlWNVZJVnFkTURNX1JOU2ljazRUNl9nS1dHZTdfTDdJbnJ6RFRVYmd1cUJsQkJLSERUOWwwRFBTOHMwS2VaWm1vQzBmN3RjcDdUUS16NHQyZkx1UUhJR2dUcXR3c1p2QVg3T3EyS3NkZG5fSC1TbnZIRFdoUTdCbnBfaWM?oc=5",
+      "source": "The Independent",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture - Financial Times",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 18:16:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3BWdzJYX3pyUm1XeE1sRlZsMm5BZGQ2clNzNjlfWlNXZmctME0yTnV0a3RBSVFoUVlSd0xPSHd3NVVMNXRLdzBISFV6QmNoazhIem01dUk5d0xJb2ZTYTVMa0x1aTdaZks2MHlldHZ6Qm5xTHdGaDk2QVBkRFJHekZpQjI?oc=5",
+      "source": "Financial Times",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Trump speaks out after Elon Musk tries to claim he was never MAGA - The Independent",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Thu, 19 Nov 2026 21:28:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFVxWHRCbzF5WmNQbFp5eThOUEV5eVVtdWpTeGRaeWotTHZrVk5lSnRocjRHRHNhMEVaT0ZNZzVfdWRqNzgxSGl6aG9WTmVuSVhYbXNfQVBacVVJcG5jY0tWVWMwSXdHMHIwSzNoWEdWVWk4dzJVVEp3VmM0MHNoWE9XRjhIczBocmVHbTlmMFA1VXp1aW5iYkFUY1RETFpULTNpRjNzUi0?oc=5",
+      "source": "The Independent",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Global stock markets slump as Anthropic’s record IPO fails to stem AI sell-off - The Guardian",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:02:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam9yUlhjeXdQYldnSlpuMlRsWjJsLXFYUGxaM3ZVc21qbTEyUG9Ja2x1aVpZRDU4amVMaTFsZVh0dWlYLXRWV1BJbGtoTkdfUjFkVlhvTnduWGFIY1VKcGNTRWRjTTNlQ1c5Z0FrazRudjFKOFVMYXVhMGNjYmVrMEpFSnpJa09jTHNDX0xrdG95NHl3ckRDc0RLZW9SQXNnSWdF?oc=5",
+      "source": "The Guardian",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Yorkshire postal delivery problems and rates explained - BBC",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 06:23:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aQlgyR1Z0OFpsbzNWLUFHQlJIdlVlV3paYkVfeDVMakU1Q1Ryc1hHckZsQXVqX1cyTDV1dDdrUW5fYk9TNTV4UHdYNTBMRWpmWVJNdkxkTkd5MXV2dkE?oc=5",
+      "source": "BBC",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "How to get a bigger Black Friday bargain: cashback, price matches and gift cards - The Guardian",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFVmRWp1ZzN0RlcwWGFzRVUyQThOZmJiMkF3NWg2NnBMb1J3Y0ZrekdCR0I1X2dhWlBaSHA0QXVrOVlnLXB3a2dvTEtOM3hHbTQweU9nckRrWnRYTDFQaFI3dzBYc05CMkVxcV95MjItbGNVdnJHaVp3Q0lGR1ZMMEI3VGg3d0x2bTgyYm9tU0NRa0tBc1c0QlFjcGtodHpTMVE?oc=5",
+      "source": "The Guardian",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "Breakthrough pancreatic cancer pill is ‘closest thing to a cure’ - The Telegraph",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 06:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTdGMWhXU0tSLVFVTjI5VXdRcWFOLVg5WGlXa20wajBSdFYzaVFBb2dtcEZyb0dscGZBVmxqcnBlRi1BbmpOMEZpRnR3UF9WTDI4TERjMnZPT21maVZrbjRncnhMZl9ZU1FBZkZQdTNZbmhoVmFhdEUzeEFjcE0zUUtqV2Y5eVRoakdpZXFxT2h4UGpzVXhrSVhVQW1GVUd2?oc=5",
+      "source": "The Telegraph",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "GTA 6 Too Dark? Here's How to Fix It on PS5 - Push Square",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Fri, 20 Nov 2026 12:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjExVVp3MTdqNndkRk4yeThtZVkxcWVjN21uRW96VVYtSk1MLXEtR21wUVQybWxUbXpvVHBwYXZUNHRUOFZ4ZVZuMHdsdGRGUDRNY1dkekk4emF1UDd5X1pPOFVid1JCR2haNVYtSlpSOEduODZxSUg5U28xWC0xZ0tZSHVwSk4t?oc=5",
+      "source": "Push Square",
+      "evidence_count": 1,
+      "country": "GB"
+    },
+    {
+      "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet - The Verge",
+      "kind": "noticia",
+      "traffic": "",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGIyUkhpRXo1ZElBZlhYU2RZVEVCR25VLXFOREx4bjVoMlBwcG9SbGt2VHBURjVYQVhZWDNQLUJZV1NNLVJNSV9aZ2xoM1k0eWo4V044RUNsYWx2QkF3bnJyWnRzYXdsMXhibms5TkJEUFc2SG16TnRlSXI5UGF2emt5NnkzOFN1S0Fta0lNSQ?oc=5",
+      "source": "The Verge",
+      "evidence_count": 1,
+      "country": "GB"
+    }
+  ]
+}
